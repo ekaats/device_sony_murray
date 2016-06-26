@@ -161,7 +161,6 @@ DEVICE_MATRIX_FILE := $(COMMON_PATH)/compatibility_matrix.xml
 DEVICE_MANIFEST_FILE := $(COMMON_PATH)/manifest.xml
 
 # HWUI
-USE_OPENGL_RENDERER := true
 HWUI_COMPILE_FOR_PERF := true
 
 # Metadata
