@@ -1,55 +1,55 @@
-# Stock package version: XQ-BC72_Customized SEA_61.1.A.11.88
+#  Stock package version: XQ-CC54_Customized EU_65.1.A.4.8
 
-# ACDB
+#  ACDB
 vendor/etc/acdbdata/adsp_avs_config.acdb
-vendor/etc/acdbdata/CDP/CDP_Bluetooth_cal.acdb
-vendor/etc/acdbdata/CDP/CDP_General_cal.acdb
-vendor/etc/acdbdata/CDP/CDP_Global_cal.acdb
-vendor/etc/acdbdata/CDP/CDP_Handset_cal.acdb
-vendor/etc/acdbdata/CDP/CDP_Hdmi_cal.acdb
-vendor/etc/acdbdata/CDP/CDP_Headset_cal.acdb
-vendor/etc/acdbdata/CDP/CDP_Speaker_cal.acdb
-vendor/etc/acdbdata/CDP/CDP_workspaceFile.qwsp
-vendor/etc/acdbdata/HDK/HDK_Bluetooth_cal.acdb
-vendor/etc/acdbdata/HDK/HDK_General_cal.acdb
-vendor/etc/acdbdata/HDK/HDK_Global_cal.acdb
-vendor/etc/acdbdata/HDK/HDK_Handset_cal.acdb
-vendor/etc/acdbdata/HDK/HDK_Hdmi_cal.acdb
-vendor/etc/acdbdata/HDK/HDK_Headset_cal.acdb
-vendor/etc/acdbdata/HDK/HDK_Speaker_cal.acdb
-vendor/etc/acdbdata/HDK/HDK_workspaceFile.qwsp
-vendor/etc/acdbdata/HDK/lahaina-hhg-snd-card/HHG_Bluetooth_cal.acdb
-vendor/etc/acdbdata/HDK/lahaina-hhg-snd-card/HHG_General_cal.acdb
-vendor/etc/acdbdata/HDK/lahaina-hhg-snd-card/HHG_Global_cal.acdb
-vendor/etc/acdbdata/HDK/lahaina-hhg-snd-card/HHG_Handset_cal.acdb
-vendor/etc/acdbdata/HDK/lahaina-hhg-snd-card/HHG_Hdmi_cal.acdb
-vendor/etc/acdbdata/HDK/lahaina-hhg-snd-card/HHG_Headset_cal.acdb
-vendor/etc/acdbdata/HDK/lahaina-hhg-snd-card/HHG_Speaker_cal.acdb
-vendor/etc/acdbdata/HDK/lahaina-hhg-snd-card/HHG_workspaceFile.qwsp
-vendor/etc/acdbdata/IDP/IDP_Shima_Bluetooth_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Shima_General_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Shima_Global_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Shima_Handset_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Shima_Hdmi_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Shima_Headset_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Shima_Speaker_cal.acdb
-vendor/etc/acdbdata/IDP/IDP_Shima_workspaceFile.qwsp
-vendor/etc/acdbdata/IDP/lahaina-shimaidps-snd-card/IDPS_Shima_Bluetooth_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-shimaidps-snd-card/IDPS_Shima_General_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-shimaidps-snd-card/IDPS_Shima_Global_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-shimaidps-snd-card/IDPS_Shima_Handset_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-shimaidps-snd-card/IDPS_Shima_Hdmi_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-shimaidps-snd-card/IDPS_Shima_Headset_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-shimaidps-snd-card/IDPS_Shima_Speaker_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-shimaidps-snd-card/IDPS_Shima_workspaceFile.qwsp
-vendor/etc/acdbdata/IDP/lahaina-yupikidp-snd-card/IDP_Yupik_Bluetooth_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-yupikidp-snd-card/IDP_Yupik_General_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-yupikidp-snd-card/IDP_Yupik_Global_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-yupikidp-snd-card/IDP_Yupik_Handset_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-yupikidp-snd-card/IDP_Yupik_Hdmi_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-yupikidp-snd-card/IDP_Yupik_Headset_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-yupikidp-snd-card/IDP_Yupik_Speaker_cal.acdb
-vendor/etc/acdbdata/IDP/lahaina-yupikidp-snd-card/IDP_Yupik_workspaceFile.qwsp
+# vendor/etc/acdbdata/CDP/CDP_Bluetooth_cal.acdb
+# vendor/etc/acdbdata/CDP/CDP_General_cal.acdb
+# vendor/etc/acdbdata/CDP/CDP_Global_cal.acdb
+# vendor/etc/acdbdata/CDP/CDP_Handset_cal.acdb
+# vendor/etc/acdbdata/CDP/CDP_Hdmi_cal.acdb
+# vendor/etc/acdbdata/CDP/CDP_Headset_cal.acdb
+# vendor/etc/acdbdata/CDP/CDP_Speaker_cal.acdb
+# vendor/etc/acdbdata/CDP/CDP_workspaceFile.qwsp
+# vendor/etc/acdbdata/HDK/HDK_Bluetooth_cal.acdb
+# vendor/etc/acdbdata/HDK/HDK_General_cal.acdb
+# vendor/etc/acdbdata/HDK/HDK_Global_cal.acdb
+# vendor/etc/acdbdata/HDK/HDK_Handset_cal.acdb
+# vendor/etc/acdbdata/HDK/HDK_Hdmi_cal.acdb
+# vendor/etc/acdbdata/HDK/HDK_Headset_cal.acdb
+# vendor/etc/acdbdata/HDK/HDK_Speaker_cal.acdb
+# vendor/etc/acdbdata/HDK/HDK_workspaceFile.qwsp
+# vendor/etc/acdbdata/HDK/holi-hhg-snd-card/HHG_Bluetooth_cal.acdb
+# vendor/etc/acdbdata/HDK/holi-hhg-snd-card/HHG_General_cal.acdb
+# vendor/etc/acdbdata/HDK/holi-hhg-snd-card/HHG_Global_cal.acdb
+# vendor/etc/acdbdata/HDK/holi-hhg-snd-card/HHG_Handset_cal.acdb
+# vendor/etc/acdbdata/HDK/holi-hhg-snd-card/HHG_Hdmi_cal.acdb
+# vendor/etc/acdbdata/HDK/holi-hhg-snd-card/HHG_Headset_cal.acdb
+# vendor/etc/acdbdata/HDK/holi-hhg-snd-card/HHG_Speaker_cal.acdb
+# vendor/etc/acdbdata/HDK/holi-hhg-snd-card/HHG_workspaceFile.qwsp
+# vendor/etc/acdbdata/IDP/IDP_SKU1_Bluetooth_cal.acdb
+# vendor/etc/acdbdata/IDP/IDP_SKU1_General_cal.acdb
+# vendor/etc/acdbdata/IDP/IDP_SKU1_Global_cal.acdb
+# vendor/etc/acdbdata/IDP/IDP_SKU1_Handset_cal.acdb
+# vendor/etc/acdbdata/IDP/IDP_SKU1_Hdmi_cal.acdb
+# vendor/etc/acdbdata/IDP/IDP_SKU1_Headset_cal.acdb
+# vendor/etc/acdbdata/IDP/IDP_SKU1_Speaker_cal.acdb
+# vendor/etc/acdbdata/IDP/IDP_SKU1_workspaceFile.qwsp
+# vendor/etc/acdbdata/IDP/holi-SKU1idps-snd-card/IDPS_SKU1_Bluetooth_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-SKU1idps-snd-card/IDPS_SKU1_General_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-SKU1idps-snd-card/IDPS_SKU1_Global_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-SKU1idps-snd-card/IDPS_SKU1_Handset_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-SKU1idps-snd-card/IDPS_SKU1_Hdmi_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-SKU1idps-snd-card/IDPS_SKU1_Headset_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-SKU1idps-snd-card/IDPS_SKU1_Speaker_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-SKU1idps-snd-card/IDPS_SKU1_workspaceFile.qwsp
+# vendor/etc/acdbdata/IDP/holi-yupikidp-snd-card/IDP_Yupik_Bluetooth_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-yupikidp-snd-card/IDP_Yupik_General_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-yupikidp-snd-card/IDP_Yupik_Global_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-yupikidp-snd-card/IDP_Yupik_Handset_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-yupikidp-snd-card/IDP_Yupik_Hdmi_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-yupikidp-snd-card/IDP_Yupik_Headset_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-yupikidp-snd-card/IDP_Yupik_Speaker_cal.acdb
+# vendor/etc/acdbdata/IDP/holi-yupikidp-snd-card/IDP_Yupik_workspaceFile.qwsp
 vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
 vendor/etc/acdbdata/MTP/MTP_General_cal.acdb
 vendor/etc/acdbdata/MTP/MTP_Global_cal.acdb
@@ -59,27 +59,27 @@ vendor/etc/acdbdata/MTP/MTP_Headset_cal.acdb
 vendor/etc/acdbdata/MTP/MTP_Speaker_cal.acdb
 vendor/etc/acdbdata/MTP/MTP_workspaceFile.qwsp
 vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.00.pmd
-vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.10.pmd
-vendor/etc/acdbdata/nn_ns_models/fai__2.3.0_0.1__3.0.0_0.0__eai_1.00.pmd
-vendor/etc/acdbdata/nn_ns_models/fai__2.3.0_0.1__3.0.0_0.0__eai_1.10.pmd
+vendor/etc/acdbdata/nn_ns_models/fai__2.2.0_0.1__3.0.0_0.0__eai_1.00.pmd
+vendor/etc/acdbdata/nn_ns_models/fai__2.7.20_0.0__eai_1.10.pmd
+# vendor/etc/acdbdata/nn_ns_models/fai__2.3.0_0.1__3.0.0_0.0__eai_1.10.pmd
 vendor/etc/acdbdata/nn_vad_models/fai_3.0.0_0.0_eai_1.00.pmd
-vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.10.pmd
-vendor/etc/acdbdata/QRD/lahaina-shimaqrd-snd-card/QRD_Shima_Bluetooth_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-shimaqrd-snd-card/QRD_Shima_General_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-shimaqrd-snd-card/QRD_Shima_Global_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-shimaqrd-snd-card/QRD_Shima_Handset_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-shimaqrd-snd-card/QRD_Shima_Hdmi_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-shimaqrd-snd-card/QRD_Shima_Headset_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-shimaqrd-snd-card/QRD_Shima_Speaker_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-shimaqrd-snd-card/QRD_Shima_workspaceFile.qwsp
-vendor/etc/acdbdata/QRD/lahaina-yupikqrd-snd-card/QRD_Yupik_Bluetooth_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-yupikqrd-snd-card/QRD_Yupik_General_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-yupikqrd-snd-card/QRD_Yupik_Global_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-yupikqrd-snd-card/QRD_Yupik_Handset_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-yupikqrd-snd-card/QRD_Yupik_Hdmi_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-yupikqrd-snd-card/QRD_Yupik_Headset_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-yupikqrd-snd-card/QRD_Yupik_Speaker_cal.acdb
-vendor/etc/acdbdata/QRD/lahaina-yupikqrd-snd-card/QRD_Yupik_workspaceFile.qwsp
+# vendor/etc/acdbdata/nn_vad_models/fai__3.0.0_0.0__eai_1.10.pmd
+vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Bluetooth_cal.acdb
+vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_General_cal.acdb
+vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Global_cal.acdb
+vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Handset_cal.acdb
+vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Hdmi_cal.acdb
+vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Headset_cal.acdb
+vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_Speaker_cal.acdb
+vendor/etc/acdbdata/QRD/holi-qrdsku1-snd-card/QRD_SKU1_workspaceFile.qwsp
+# vendor/etc/acdbdata/QRD/holi-yupikqrd-snd-card/QRD_Yupik_Bluetooth_cal.acdb
+# vendor/etc/acdbdata/QRD/holi-yupikqrd-snd-card/QRD_Yupik_General_cal.acdb
+# vendor/etc/acdbdata/QRD/holi-yupikqrd-snd-card/QRD_Yupik_Global_cal.acdb
+# vendor/etc/acdbdata/QRD/holi-yupikqrd-snd-card/QRD_Yupik_Handset_cal.acdb
+# vendor/etc/acdbdata/QRD/holi-yupikqrd-snd-card/QRD_Yupik_Hdmi_cal.acdb
+# vendor/etc/acdbdata/QRD/holi-yupikqrd-snd-card/QRD_Yupik_Headset_cal.acdb
+# vendor/etc/acdbdata/QRD/holi-yupikqrd-snd-card/QRD_Yupik_Speaker_cal.acdb
+# vendor/etc/acdbdata/QRD/holi-yupikqrd-snd-card/QRD_Yupik_workspaceFile.qwsp
 vendor/etc/acdbdata/QRD/QRD_Bluetooth_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_General_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Global_cal.acdb
@@ -88,18 +88,18 @@ vendor/etc/acdbdata/QRD/QRD_Hdmi_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Headset_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_Speaker_cal.acdb
 vendor/etc/acdbdata/QRD/QRD_workspaceFile.qwsp
-vendor/etc/acdbdata/Sony_sagami_Bluetooth_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_General_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Global_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Handset_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Hdmi_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Headset_cal.acdb
-vendor/etc/acdbdata/Sony_sagami_Speaker_cal.acdb
-vendor/etc/acdbdata/workspaceFile_Sony_sagami.qwsp
+vendor/etc/acdbdata/Sony_murray_Bluetooth_cal.acdb
+vendor/etc/acdbdata/Sony_murray_General_cal.acdb
+vendor/etc/acdbdata/Sony_murray_Global_cal.acdb
+vendor/etc/acdbdata/Sony_murray_Handset_cal.acdb
+vendor/etc/acdbdata/Sony_murray_Hdmi_cal.acdb
+vendor/etc/acdbdata/Sony_murray_Headset_cal.acdb
+vendor/etc/acdbdata/Sony_murray_Speaker_cal.acdb
+vendor/etc/acdbdata/workspaceFile_Sony_murray.qwsp
 vendor/lib64/libacdbloader.so
 vendor/lib/libacdbloader.so
 
-# ADSP
+#  ADSP
 vendor/bin/adsprpcd
 vendor/bin/dspservice
 vendor/bin/loadalgo
@@ -114,7 +114,7 @@ vendor/lib/libfastcrc.so
 vendor/lib/vendor.qti.hardware.dsp@1.0.so
 vendor/lib64/vendor.qti.hardware.dsp@1.0.so
 
-# ADSP modules
+#  ADSP modules
 vendor/lib/rfsa/adsp/bm2n06.bin
 vendor/lib/rfsa/adsp/bm2n08.bin
 vendor/lib/rfsa/adsp/bm2n12.bin
@@ -128,48 +128,48 @@ vendor/lib/rfsa/adsp/libapps_mem_heap.so
 vendor/lib/rfsa/adsp/libbitml_nsp_skel.so
 vendor/lib/rfsa/adsp/libbitml_nsp_v2_skel.so
 vendor/lib/rfsa/adsp/libcamera_nn_skel.so
-vendor/lib/rfsa/adsp/libcvpdsp_2_1.so
+# vendor/lib/rfsa/adsp/libcvpdsp_2_1.so
 vendor/lib/rfsa/adsp/libdspCV_skel.so
 vendor/lib/rfsa/adsp/libdsp_streamer_binning.so
 vendor/lib/rfsa/adsp/libfastcvadsp.so
 vendor/lib/rfsa/adsp/libfastcvdsp_skel.so
-vendor/lib/rfsa/adsp/libhalide_hexagon_remote_skel.so
+# vendor/lib/rfsa/adsp/libhalide_hexagon_remote_skel.so
 vendor/lib/rfsa/adsp/libhdr_skel.so
 vendor/lib/rfsa/adsp/libmctfengine_skel.so
-vendor/lib/rfsa/adsp/libmobilenet_dsp_frc_networks.so
-vendor/lib/rfsa/adsp/libmobilenet_dsp_frc.so
-vendor/lib/rfsa/adsp/libQnnHtpAltPrepSkel.so
+# vendor/lib/rfsa/adsp/libmobilenet_dsp_frc_networks.so
+# vendor/lib/rfsa/adsp/libmobilenet_dsp_frc.so
+# vendor/lib/rfsa/adsp/libQnnHtpAltPrepSkel.so
 vendor/lib/rfsa/adsp/libscveObjectSegmentation_skel.so
 vendor/lib/rfsa/adsp/libscveT2T_skel.so
-vendor/lib/rfsa/adsp/libsnpe_dsp_v68_domains_v3_skel.so
+# vendor/lib/rfsa/adsp/libsnpe_dsp_v68_domains_v3_skel.so
 vendor/lib/rfsa/adsp/libsns_device_mode_skel.so
 vendor/lib/rfsa/adsp/libsns_low_lat_stream_skel.so
-vendor/lib/rfsa/adsp/libsomc_alfortlpserv_skel.so
-vendor/lib/rfsa/adsp/libsomc_cornfrosty_skel.so
-vendor/lib/rfsa/adsp/libsomc_donutscmnserv_skel.so
-vendor/lib/rfsa/adsp/libsomc_milkyrollserv_skel.so
-vendor/lib/rfsa/adsp/libsomc_pdnserv_skel.so
-vendor/lib/rfsa/adsp/libstdc++.so
-vendor/lib/rfsa/adsp/libsuper_res_networks.so
-vendor/lib/rfsa/adsp/libvpp_ais_networks.so
-vendor/lib/rfsa/adsp/libVppAisQnnHtp.so
-vendor/lib/rfsa/adsp/libVppFrcQnnHtp.so
-vendor/lib/rfsa/adsp/libVppQnnHtp.so
-vendor/lib/rfsa/adsp/libvpt_action_recognition.so
+# vendor/lib/rfsa/adsp/libsomc_alfortlpserv_skel.so
+# vendor/lib/rfsa/adsp/libsomc_cornfrosty_skel.so
+# vendor/lib/rfsa/adsp/libsomc_donutscmnserv_skel.so
+# vendor/lib/rfsa/adsp/libsomc_milkyrollserv_skel.so
+# vendor/lib/rfsa/adsp/libsomc_pdnserv_skel.so
+# vendor/lib/rfsa/adsp/libstdc++.so
+# vendor/lib/rfsa/adsp/libsuper_res_networks.so
+# vendor/lib/rfsa/adsp/libvpp_ais_networks.so
+# vendor/lib/rfsa/adsp/libVppAisQnnHtp.so
+# vendor/lib/rfsa/adsp/libVppFrcQnnHtp.so
+# vendor/lib/rfsa/adsp/libVppQnnHtp.so
+# vendor/lib/rfsa/adsp/libvpt_action_recognition.so
 vendor/lib64/rfsa/adsp/libsns_device_mode_skel.so
 vendor/lib64/rfsa/adsp/libsns_low_lat_stream_skel.so
 
-# ANT+
+#  ANT+
 system_ext/lib/com.qualcomm.qti.ant@1.0.so
 system_ext/lib64/com.qualcomm.qti.ant@1.0.so
 
-# Audio Extensions
+#  Audio Extensions
 vendor/lib64/libhdmipassthru.so
 vendor/lib64/libsonydseehxwrapper.so
 vendor/lib/libhdmipassthru.so
 vendor/lib/libsonydseehxwrapper.so
 
-# Audio Firmware
+#  Audio Firmware
 vendor/lib64/libacdb-fts.so
 vendor/lib64/libadiertac.so
 vendor/lib64/libacdbrtac.so
@@ -190,73 +190,73 @@ vendor/lib/libqtigef.so
 system_ext/lib/vendor.qti.hardware.audiohalext@1.0.so
 system_ext/lib64/vendor.qti.hardware.audiohalext@1.0.so
 
-# Audio FX Modules
+#  Audio FX Modules
 system_ext/etc/permissions/audiosphere.xml
 system_ext/framework/audiosphere.jar
-vendor/etc/zoom_noise_reduction/znr_Wide_48k.tbl
-vendor/etc/zoom_noise_reduction/znr_Front_48k.tbl
-vendor/etc/zoom_noise_reduction/znr_Tele_48k.tbl
-vendor/etc/zoom_noise_reduction/znr_UWide_44k.tbl
-vendor/etc/zoom_noise_reduction/znr_Tele_44k.tbl
-vendor/etc/zoom_noise_reduction/znr_default_44k.tbl
-vendor/etc/zoom_noise_reduction/znr_Front_44k.tbl
-vendor/etc/zoom_noise_reduction/znr_Wide_44k.tbl
-vendor/etc/zoom_noise_reduction/znr_UWide_48k.tbl
+vendor/etc/zoom_noise_reduction/znr_48k_WideCam.tbl
+vendor/etc/zoom_noise_reduction/znr_48k_FrontCHICam.tbl
+vendor/etc/zoom_noise_reduction/znr_48k_TeleCam.tbl
+vendor/etc/zoom_noise_reduction/znr_44k_SWideCam.tbl
+vendor/etc/zoom_noise_reduction/znr_44k_TeleCam.tbl
+vendor/etc/zoom_noise_reduction/znr_44k_defaultCam.tbl
+vendor/etc/zoom_noise_reduction/znr_44k_FrontCHICam.tbl
+vendor/etc/zoom_noise_reduction/znr_44k_WideCam.tbl
+vendor/etc/zoom_noise_reduction/znr_48k_SWideCam.tbl
 vendor/etc/zoom_noise_reduction/znr_parameter.xml
-vendor/etc/zoom_noise_reduction/znr_default_48k.tbl
+vendor/etc/zoom_noise_reduction/znr_48k_defaultCam.tbl
 vendor/lib64/librebuffering.so
 vendor/lib64/soundfx/libqcvirt.so
 vendor/lib64/soundfx/libshoebox.so
-vendor/lib64/soundfx/libbundlewrapper4.so
-vendor/lib64/soundfx/libswdap.so
+# vendor/lib64/soundfx/libbundlewrapper.so
+# vendor/lib64/soundfx/libswdap.so
 vendor/lib64/soundfx/libqcbassboost.so
-vendor/lib64/soundfx/libbundlewrapper3.so
+# vendor/lib64/soundfx/libbundlewrapper3.so
 vendor/lib64/soundfx/libasphere.so
-vendor/lib64/soundfx/libbundlewrapper1.so
+# vendor/lib64/soundfx/libbundlewrapper1.so
 vendor/lib64/soundfx/libqcreverb.so
-vendor/lib64/soundfx/libbundlewrapper2.so
-vendor/lib64/libOARenderer.so
-vendor/lib64/libSForceVSE.so
-vendor/lib64/libvpt3d.so
-vendor/lib64/libHpEqApi.so
+# vendor/lib64/soundfx/libbundlewrapper2.so
+# vendor/lib64/libOARenderer.so
+# vendor/lib64/libSForceVSE.so
+# vendor/lib64/libvpt3d.so
+# vendor/lib64/libHpEqApi.so
 vendor/lib64/libiVptApi.so
 vendor/lib64/libiVptHkiDec.so
 vendor/lib64/libiVptLibC.so
-vendor/lib64/vendor.dolby.hardware.dms@1.0.so
-vendor/lib64/libdapparamstorage.so
-vendor/lib64/libaudiokeymgr.so
+# vendor/lib64/vendor.dolby.hardware.dms@1.0.so
+# vendor/lib64/libdapparamstorage.so
+# vendor/lib64/libaudiokeymgr.so
 vendor/lib64/libops.so
 vendor/lib/librebuffering.so
 vendor/lib/libznr.so
 vendor/lib/soundfx/libqcvirt.so
 vendor/lib/soundfx/libshoebox.so
-vendor/lib/soundfx/libbundlewrapper4.so
-vendor/lib/soundfx/libdnnrwrapper.so
+vendor/lib/soundfx/libbundlewrapper.so
+# vendor/lib/soundfx/libdnnrwrapper.so
 vendor/lib/soundfx/libznrwrapper.so
-vendor/lib/soundfx/libswdap.so
+# vendor/lib/soundfx/libswdap.so
 vendor/lib/soundfx/libqcbassboost.so
-vendor/lib/soundfx/libbundlewrapper3.so
+# vendor/lib/soundfx/libbundlewrapper3.so
 vendor/lib/soundfx/libasphere.so
-vendor/lib/soundfx/libbundlewrapper1.so
+# vendor/lib/soundfx/libbundlewrapper1.so
 vendor/lib/soundfx/libqcreverb.so
-vendor/lib/soundfx/libbundlewrapper2.so
-vendor/lib/libsony3daudioeffect.so
-vendor/lib/libaudiosnpewrapper.so
-vendor/lib/libdapparamstorage.so
-vendor/lib/vendor.dolby.hardware.dms@1.0.so
-vendor/lib/libOARenderer.so
-vendor/lib/libSForceVSE.so
-vendor/lib/libvpt3d.so
-vendor/lib/libHpEqApi.so
+# vendor/lib/soundfx/libbundlewrapper2.so
+# vendor/lib/libsony3daudioeffect.so
+# vendor/lib/libaudiosnpewrapper.so
+# vendor/lib/libdapparamstorage.so
+# vendor/lib/vendor.dolby.hardware.dms@1.0.so
+# vendor/lib/libOARenderer.so
+# vendor/lib/libSForceVSE.so
+# vendor/lib/libvpt3d.so
+# vendor/lib/libHpEqApi.so
 vendor/lib/libiVptApi.so
 vendor/lib/libiVptHkiDec.so
 vendor/lib/libiVptLibC.so
-vendor/lib/libSNPE.so
-vendor/lib/libaudiokeymgr.so
-vendor/lib/libc++_shared.so
+# vendor/lib/libSNPE.so
+# vendor/lib/libaudiokeymgr.so
+# vendor/lib/libc++_shared.so
 vendor/lib/libops.so
 
-# Bluetooth
+#  Bluetooth
 vendor/bin/hw/android.hardware.bluetooth@1.0-service-qti
 vendor/etc/init/android.hardware.bluetooth@1.0-service-qti.rc
 vendor/lib64/hw/android.hardware.bluetooth@1.0-impl-qti.so
@@ -266,7 +266,7 @@ vendor/lib/libbt-hidlclient.so
 vendor/lib/libbtnv.so
 vendor/lib64/libbt-hidlclient.so
 
-# Bluetooth (A2DP)
+#  Bluetooth (A2DP)
 vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.0-impl.so
 vendor/lib/hw/vendor.qti.hardware.bluetooth_audio@2.1-impl.so
 vendor/lib/hw/vendor.qti.hardware.bluetooth_sar@1.1-impl.so
@@ -290,19 +290,19 @@ vendor/lib/hw/vendor.qti.hardware.btconfigstore@2.0-impl.so
 vendor/lib/libbluetooth_audio_session_qti_2_1.so
 vendor/lib64/libbluetooth_audio_session_qti_2_1.so
 
-# Bluetooth (aptX) - from crosshatch - RQ1A.201205.003
-system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
-system_ext/lib64/libaptXHD_encoder.so|e13fa70c97caaa24d061678bdee608eb8850a69e
+#  Bluetooth (aptX) - from crosshatch - RQ1A.201205.003
+# system_ext/lib64/libaptX_encoder.so|df1c89d7af1bb35808d5fe3496b04ba066c10cbc
+# system_ext/lib64/libaptXHD_encoder.so|e13fa70c97caaa24d061678bdee608eb8850a69e
 
-# Bluetooth (Other libs)
+#  Bluetooth (Other libs)
 vendor/lib64/libsoc_helper.so
 vendor/lib64/libbluetooth_audio_session_qti_2_1.so
 
-# Camera firmware
-vendor/firmware/CAMERA_ICP_170.elf
-vendor/firmware/CAMERA_ICP.elf
+#  Camera firmware
+# vendor/firmware/CAMERA_ICP_170.elf
+# vendor/firmware/CAMERA_ICP.elf
 
-# Camera postprocessing
+#  Camera postprocessing
 vendor/lib/libscveCommon.so
 vendor/lib/libscveObjectTracker.so
 vendor/lib/libscveObjectSegmentation_stub.so
@@ -316,7 +316,7 @@ vendor/lib64/libscveCommon_stub.so
 vendor/lib64/libscveObjectSegmentation.so
 vendor/lib64/libscveObjectTracker_stub.so
 
-# CDSP
+#  CDSP
 vendor/bin/cdsprpcd
 vendor/lib64/libcdsp_default_listener.so
 vendor/lib64/libcdsprpc.so
@@ -329,11 +329,11 @@ vendor/lib/libsdsprpc.so
 vendor/lib/libsysmon_cdsp_skel.so
 vendor/lib/libmdsprpc.so
 
-# Charger
-vendor/etc/init/vendor.semc.hardware.charger@1.1-service.rc
-vendor/bin/hw/vendor.semc.hardware.charger@1.1-service
+#  Charger
+vendor/etc/init/vendor.semc.hardware.charger@1.2-service.rc
+vendor/bin/hw/vendor.semc.hardware.charger@1.2-service
 
-# CNE
+#  CNE
 -vendor/app/CneApp/CneApp.apk
 vendor/bin/cnd
 vendor/etc/cne/mwqem.conf
@@ -473,22 +473,22 @@ system_ext/lib64/vendor.qti.hardware.data.qmi@1.0.so
 vendor/lib/vendor.qti.hardware.slmadapter@1.0.so
 vendor/lib64/vendor.qti.hardware.slmadapter@1.0.so
 
-# Configstore
+#  Configstore
 vendor/bin/hw/vendor.qti.hardware.capabilityconfigstore@1.0-service
-vendor/etc/configstore/vpp.configstore.xml
+# vendor/etc/configstore/vpp.configstore.xml
 vendor/etc/init/vendor.qti.hardware.capabilityconfigstore@1.0-service.rc
 vendor/lib/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so
 vendor/lib64/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so
 
-# CVP
-vendor/etc/cvp/v2.0/facedetection/model1.dat
-vendor/etc/cvp/v2.1/facedetection/model2.dat
-vendor/lib64/libcvp2_1.so
-vendor/lib64/libcvp_common.so
-vendor/lib64/libcvpcpuRev_skel.so
-vendor/lib64/vendor.qti.hardware.cvp@1.0.so
+#  CVP
+# vendor/etc/cvp/v2.0/facedetection/model1.dat
+# vendor/etc/cvp/v2.1/facedetection/model2.dat
+# vendor/lib64/libcvp2_1.so
+# vendor/lib64/libcvp_common.so
+# vendor/lib64/libcvpcpuRev_skel.so
+# vendor/lib64/vendor.qti.hardware.cvp@1.0.so
 
-# Diag
+#  Diag
 system_ext/lib/vendor.qti.diaghal@1.0.so
 system_ext/lib64/vendor.qti.diaghal@1.0.so
 vendor/bin/diag-router
@@ -497,9 +497,9 @@ vendor/lib/vendor.qti.diaghal@1.0.so
 vendor/lib64/vendor.qti.diaghal@1.0.so
 
 
-# Display
-vendor/bin/hw/vendor.semc.hardware.display@2.4-service
-vendor/etc/init/vendor.semc.hardware.display@2.4-service.rc
+#  Display
+vendor/bin/hw/vendor.semc.hardware.display@2.2-service
+vendor/etc/init/vendor.semc.hardware.display@2.2-service.rc
 vendor/bin/qdcmss
 vendor/etc/init/qdcmss.rc
 vendor/etc/snapdragon_color_libs_config.xml
@@ -510,10 +510,10 @@ vendor/lib64/libdpps.so
 vendor/lib64/libsnapdragoncolor-manager.so
 vendor/lib64/libsnapdragoncolor-qdcm.so
 
-# Display (HDR)
+#  Display (HDR)
 vendor/lib64/libhdr_tm.so
 
-# Display (SDM)
+#  Display (SDM)
 vendor/etc/display/advanced_sf_offsets.xml
 vendor/etc/display/DPU660.xml
 vendor/etc/display/DPU670.xml
@@ -530,9 +530,9 @@ vendor/lib64/libsdm-disp-vndapis.so
 vendor/lib64/libsdmextension.so
 vendor/lib64/libtinyxml2_1.so
 
-# Display calibration data
-vendor/etc/qdcm_calib_data_1.xml
-vendor/etc/qdcm_calib_data_9.xml
+#  Display calibration data
+# vendor/etc/qdcm_calib_data_1.xml
+# vendor/etc/qdcm_calib_data_9.xml
 vendor/etc/qdcm_calib_data_Dual_nt35597_cmd_mode_dsi_truly_panel_without_DSC.xml
 vendor/etc/qdcm_calib_data_Dual_nt35597_video_mode_dsi_truly_panel_without_DSC.xml
 vendor/etc/qdcm_calib_data_nt35597_cmd_mode_dsi_truly_panel_with_DSC.xml
@@ -559,7 +559,7 @@ vendor/etc/qdcm_calib_data_sw43404_amoled_video_mode_dsi_boe_panel_with_DSC.xml
 vendor/etc/qdcm_calib_data_td4330_v2_cmd_mode_dsi_truly_panel.xml
 vendor/etc/qdcm_calib_data_td4330_v2_video_mode_dsi_truly_panel.xml
 
-# Display postprocessing
+#  Display postprocessing
 vendor/bin/hw/vendor.display.color@1.0-service
 vendor/bin/ppd
 vendor/etc/init/vendor.display.color@1.0-service.rc
@@ -572,7 +572,7 @@ vendor/lib64/vendor.display.color@1.4.so
 vendor/lib64/vendor.display.color@1.5.so
 vendor/lib64/vendor.display.postproc@1.0.so
 
-# DPM
+#  DPM
 framework/tcmclient.jar
 system_ext/bin/dpmd
 system_ext/bin/tcmd
@@ -605,7 +605,7 @@ vendor/lib64/libdpmqmihal.so
 vendor/lib/com.qualcomm.qti.dpm.api@1.0.so
 vendor/lib/libdpmqmihal.so
 
-# DRM
+#  DRM
 vendor/bin/qseecomd
 vendor/lib64/libcpion.so
 vendor/lib64/libdrmfs.so
@@ -616,7 +616,7 @@ vendor/lib64/libqisl.so
 vendor/lib64/libQSEEComAPI.so
 vendor/lib64/librpmb.so
 vendor/lib64/libsecureui_svcsock.so
-vendor/lib64/libspl.so
+# vendor/lib64/libspl.so
 vendor/lib64/libssd.so
 vendor/lib64/libtzdrmgenprov.so
 vendor/lib/libcppf.so
@@ -628,25 +628,25 @@ vendor/lib/libqisl.so
 vendor/lib/libQSEEComAPI.so
 vendor/lib/librpmb.so
 vendor/lib/libsecureui_svcsock.so
-vendor/lib/libspl.so
+# vendor/lib/libspl.so
 vendor/lib/libssd.so
 vendor/lib/libtzdrmgenprov.so
 
-# ESE
+#  ESE
 vendor/bin/hw/vendor.qti.esepowermanager@1.1-service
 vendor/etc/init/vendor.qti.esepowermanager@1.1-service.rc
 vendor/lib64/hw/vendor.qti.esepowermanager@1.1-impl.so
 vendor/lib64/vendor.qti.esepowermanager@1.0.so
 vendor/lib64/vendor.qti.esepowermanager@1.1.so
 
-# Fingerprint firmware
-vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service-rbs
-vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service-rbs.rc
+#  Fingerprint firmware
+vendor/bin/hw/android.hardware.biometrics.fingerprint@2.1-service
+vendor/etc/init/android.hardware.biometrics.fingerprint@2.1-service.rc
 vendor/lib64/vendor.egistec.hardware.fingerprint@4.0.so
-vendor/lib64/libRbsFlow.so
+# vendor/lib64/libRbsFlow.so
 vendor/lib64/libets_teeclient_v2.so
 
-# FM
+#  FM
 system_ext/lib/fm_helium.so
 system_ext/lib/libfm-hci.so
 system_ext/lib64/fm_helium.so
@@ -655,13 +655,13 @@ system_ext/lib64/libfm-hci.so
 -system_ext/lib64/vendor.qti.hardware.fm@1.0.so
 vendor/lib64/hw/vendor.qti.hardware.fm@1.0-impl.so
 
-# Gatekeeper
+#  Gatekeeper
 vendor/bin/hw/android.hardware.gatekeeper@1.0-service-qti
 vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc
 vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so
 
-# Graphics (Adreno)
+#  Graphics (Adreno)
 vendor/lib/egl/eglSubDriverAndroid.so
 vendor/lib/egl/libEGL_adreno.so
 vendor/lib/egl/libGLESv1_CM_adreno.so
@@ -697,7 +697,7 @@ vendor/lib64/libllvm-qcom.so
 vendor/lib64/libOpenCL.so
 vendor/lib64/libVkLayer_q3dtools.so
 
-# Graphics (Adreno firmware)
+#  Graphics (Adreno firmware)
 vendor/firmware/a660_gmu.bin
 vendor/firmware/a660_sqe.fw
 vendor/firmware/a660_zap.b00
@@ -706,11 +706,11 @@ vendor/firmware/a660_zap.b02
 vendor/firmware/a660_zap.elf
 vendor/firmware/a660_zap.mdt
 
-# Graphics (Vulkan)
+#  Graphics (Vulkan)
 vendor/lib/hw/vulkan.adreno.so
 vendor/lib64/hw/vulkan.adreno.so
 
-# GNSS
+#  GNSS
 vendor/app/CACertService/CACertService.apk
 vendor/bin/hw/android.hardware.gnss@2.1-service-qti
 vendor/bin/loc_launcher
@@ -790,17 +790,17 @@ vendor/lib64/libcdfw_remote_api.so
 vendor/lib/vendor.qti.hardware.qccsyshal@1.0.so
 vendor/lib64/vendor.qti.hardware.qccsyshal@1.0.so
 
-# HotwordEnrollment
--product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk|dcabab23159d9c578ec82b7244d19343b9a99f82
--product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk|7f97105f641afed5ac4bb2242c65ad6f9694a689
+#  HotwordEnrollment
+# product/priv-app/HotwordEnrollmentOKGoogleHEXAGON/HotwordEnrollmentOKGoogleHEXAGON.apk|dcabab23159d9c578ec82b7244d19343b9a99f82
+# product/priv-app/HotwordEnrollmentXGoogleHEXAGON/HotwordEnrollmentXGoogleHEXAGON.apk|7f97105f641afed5ac4bb2242c65ad6f9694a689
 -system_ext/framework/com.android.hotwordenrollment.common.util.jar
 system_ext/etc/permissions/com.android.hotwordenrollment.common.util.xml
 
-# IDD
-vendor/bin/hw/vendor.semc.system.idd@1.0-service
+#  IDD
+vendor/bin/hw/vendor.semc.system.idd@1.1-service
 vendor/bin/iddd
 vendor/etc/iddd_user.conf
-vendor/etc/init/vendor.semc.system.idd@1.0-service.rc
+vendor/etc/init/vendor.semc.system.idd@1.1-service.rc
 vendor/etc/security/idd_config.pem
 vendor/etc/security/idd_report.pem
 vendor/lib64/libidd.so
@@ -811,7 +811,7 @@ vendor/lib/vendor.semc.system.idd@1.0.so
 vendor/etc/idd.fstab
 vendor/etc/init/init.sony.idd.rc
 
-# IMS
+#  IMS
 vendor/bin/imsdaemon
 vendor/bin/ims_rtp_daemon
 vendor/etc/init/imsdaemon.rc
@@ -857,7 +857,7 @@ vendor/lib64/vendor.qti.ims.rcsconfig@2.1.so
 vendor/lib64/vendor.qti.imsrtpservice@3.0-service-Impl.so
 vendor/lib64/vendor.qti.imsrtpservice@3.0.so
 
-# IO prefetcher
+#  IO prefetcher
 vendor/bin/hw/vendor.qti.hardware.iop@2.0-service
 vendor/etc/init/vendor.qti.hardware.iop@2.0-service.rc
 vendor/lib64/libqti-iopd-client.so
@@ -865,7 +865,7 @@ vendor/lib64/libqti-iopd.so
 vendor/lib64/vendor.qti.hardware.iop@1.0.so
 vendor/lib64/vendor.qti.hardware.iop@2.0.so
 
-# IPA firmware
+#  IPA firmware
 vendor/etc/init/ipa_fws.rc
 vendor/firmware/ipa_fws.b02
 vendor/firmware/ipa_fws.b03
@@ -874,11 +874,11 @@ vendor/firmware/ipa_fws.b04
 vendor/firmware/ipa_fws.b01
 vendor/firmware/ipa_fws.mdt
 
-# IRQ balance
+#  IRQ balance
 vendor/bin/msm_irqbalance
 vendor/etc/msm_irqbalance.conf
 
-# Keymaster
+#  Keymaster
 vendor/bin/hw/android.hardware.keymaster@4.1-service-qti
 vendor/etc/init/android.hardware.keymaster@4.1-service-qti.rc
 vendor/lib64/libkeymasterdeviceutils.so
@@ -889,8 +889,8 @@ vendor/lib/libkeymasterdeviceutils.so
 vendor/lib/libkeymasterprovision.so
 vendor/lib/libkeymasterutils.so
 vendor/lib/libqtikeymaster4.so
-vendor/bin/keymasterd
-vendor/etc/init/keymasterd.rc
+# vendor/bin/keymasterd
+# vendor/etc/init/keymasterd.rc
 vendor/bin/hw/vendor.qti.hardware.qseecom@1.0-service
 vendor/lib64/hw/vendor.qti.hardware.qseecom@1.0-impl.so
 vendor/lib64/vendor.qti.hardware.qseecom@1.0.so
@@ -902,11 +902,11 @@ vendor/lib64/libQTEEConnector_listener.so
 vendor/lib64/libGPTEE_vendor.so
 vendor/lib64/libGPQTEEC_vendor.so
 
-# Keyprov
+#  Keyprov
 vendor/bin/keyprovd
 vendor/etc/init/init.keyprovd.rc
 
-# Listen
+#  Listen
 vendor/lib64/libcapiv2svacnn.so
 vendor/lib64/libcapiv2vop.so
 vendor/lib64/libgcs-calwrapper.so
@@ -927,7 +927,7 @@ vendor/lib/liblistensoundmodel2.so
 vendor/lib/libmulawdec.so
 vendor/lib/libsmwrapper.so
 
-# Media
+#  Media
 system_ext/lib/libmmosal.so
 system_ext/lib/libmmparser_lite.so
 system_ext/lib64/libmmosal.so
@@ -935,8 +935,8 @@ vendor/bin/hw/vendor.qti.media.c2@1.0-service
 vendor/bin/init.qti.media.sh
 vendor/etc/init/init.qti.media.rc
 vendor/etc/init/vendor.qti.media.c2@1.0-service.rc
-vendor/etc/media_lahaina/video_system_specs.json
-vendor/etc/media/video_system_specs.json
+vendor/etc/media_holi/video_system_specs.json
+vendor/etc/media_blair/video_system_specs.json
 vendor/etc/video_system_specs.json
 vendor/etc/seccomp_policy/codec2.vendor.base-arm.policy
 vendor/etc/seccomp_policy/codec2.vendor.ext-arm.policy
@@ -959,28 +959,28 @@ vendor/lib/libqcodec2_v4l2codec.so
 vendor/lib/libmmosal.so
 vendor/lib64/libmmosal.so
 
-# Media (Stagefright)
-vendor/lib64/libstagefrightdolby.so
-vendor/lib64/libstagefright_hdcp.so
+#  Media (Stagefright)
+# vendor/lib64/libstagefrightdolby.so
+# vendor/lib64/libstagefright_hdcp.so
 vendor/lib64/libstagefright_soft_qtiflacdec.so
-vendor/lib/libstagefrightdolby.so
-vendor/lib/libstagefright_hdcp.so
-vendor/lib/libstagefright_soft_ac4dec.so
-vendor/lib/libstagefright_soft_ddpdec.so
-vendor/lib/libstagefright_soft_mphadec.so
-vendor/lib/libstagefright_soft_qtiflacdec.so
-vendor/lib/libstagefright_soft_somcalacdec.so
+# vendor/lib/libstagefrightdolby.so
+# vendor/lib/libstagefright_hdcp.so
+# vendor/lib/libstagefright_soft_ac4dec.so
+# vendor/lib/libstagefright_soft_ddpdec.so
+# vendor/lib/libstagefright_soft_mphadec.so
+# vendor/lib/libstagefright_soft_qtiflacdec.so
+# vendor/lib/libstagefright_soft_somcalacdec.so
 
-# Neural networks
-vendor/bin/hw/android.hardware.neuralnetworks@1.3-service-qti
-vendor/etc/init/android.hardware.neuralnetworks@1.3-service-qti.rc
--vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-qti.xml
-vendor/lib64/libQnnHtpAltPrepStub.so
-vendor/lib64/unnhal-acc-common.so
-vendor/lib64/unnhal-acc-gpu.so
-vendor/lib64/unnhal-acc-htp.so
+#  Neural networks
+# vendor/bin/hw/android.hardware.neuralnetworks@1.3-service-qti
+# vendor/etc/init/android.hardware.neuralnetworks@1.3-service-qti.rc
+# vendor/etc/vintf/manifest/android.hardware.neuralnetworks@1.3-service-qti.xml
+# vendor/lib64/libQnnHtpAltPrepStub.so
+# vendor/lib64/unnhal-acc-common.so
+# vendor/lib64/unnhal-acc-gpu.so
+# vendor/lib64/unnhal-acc-htp.so
 
-# OMX
+#  OMX
 vendor/lib/libAlacSwDec.so
 vendor/lib/libApeSwDec.so
 vendor/lib/libdsd2pcm.so
@@ -1016,15 +1016,15 @@ vendor/lib64/libOmxMpeghEncSw.so
 vendor/lib64/libOmxQcelp13Dec.so
 vendor/lib64/libOmxWmaDec.so
 
-# Peripheral manager
+#  Peripheral manager
 vendor/bin/pm-proxy
 vendor/bin/pm-service
 vendor/lib64/libperipheral_client.so
-vendor/lib64/libspcom.so
+# vendor/lib64/libspcom.so
 vendor/lib/libperipheral_client.so
-vendor/lib/libspcom.so
+# vendor/lib/libspcom.so
 
-# Perf
+#  Perf
 vendor/bin/hw/vendor.qti.hardware.perf@2.2-service
 vendor/etc/init/vendor.qti.hardware.perf@2.2-service.rc
 vendor/etc/perf/commonresourceconfigs.xml
@@ -1049,11 +1049,11 @@ vendor/lib64/libqti-perfd-client.so
 vendor/lib64/libqti-perfd.so
 vendor/lib64/libqti-util.so
 
-# Perf LM
+#  Perf LM
 vendor/etc/lm/AdaptLaunchFeature.xml
 vendor/etc/lm/AppClassifierFeature.xml
 vendor/etc/lm/GameOptimizationFeature.xml
-vendor/etc/lm/gPLAFFeature.xml
+# vendor/etc/lm/gPLAFFeature.xml
 vendor/etc/lm/PreKillFeature.xml
 vendor/etc/lm/prekill/prekill_2GB.data
 vendor/etc/lm/prekill/prekill_4GB.data
@@ -1062,14 +1062,14 @@ vendor/etc/lm/sPLHFeature.xml
 vendor/lib64/libadaptlaunch.so
 vendor/lib64/libappclassifier.so
 vendor/lib64/libgameoptfeature.so
-vendor/lib64/libgplaf.so
+# vendor/lib64/libgplaf.so
 vendor/lib64/liblmutils-ns.so
 vendor/lib64/libmemperfd.so
 vendor/lib64/libmeters-ns.so
 vendor/lib64/libprekill.so
 vendor/lib64/libsplh.so
 
-# QMI
+#  QMI
 system/etc/permissions/privapp-permissions-qti.xml
 system/etc/sysconfig/qti_whitelist.xml
 system_ext/etc/permissions/qti_libpermissions.xml
@@ -1112,7 +1112,7 @@ vendor/lib64/libqmi_encdec.so
 vendor/lib64/libqmiservices.so
 vendor/lib64/libsubsystem_control.so
 
-# QRTR
+#  QRTR
 vendor/bin/qrtr-cfg
 vendor/bin/qrtr-lookup
 vendor/bin/qrtr-ns
@@ -1121,20 +1121,20 @@ vendor/lib64/libqrtrclient.so
 vendor/lib64/libqrtr.so
 vendor/lib64/libril-db.so
 
-# QSPM
+#  QSPM
 vendor/bin/vendor.qti.qspmhal@1.0-service
 vendor/etc/init/vendor.qti.qspmhal@1.0-service.rc
 vendor/etc/seccomp_policy/qspm.policy
 vendor/lib64/vendor.qti.qspmhal@1.0-impl.so
 vendor/lib64/vendor.qti.qspmhal@1.0.so
 
-# QTI service tracker
+#  QTI service tracker
 vendor/bin/hw/vendor.qti.hardware.servicetracker@1.2-service
 vendor/etc/init/vendor.qti.hardware.servicetracker@1.2-service.rc
 -vendor/etc/vintf/manifest/vendor.qti.hardware.servicetracker@1.2-service.xml
 vendor/lib64/hw/vendor.qti.hardware.servicetracker@1.2-impl.so
 
-# Qteeconnector
+#  Qteeconnector
 vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service
 vendor/etc/init/vendor.qti.hardware.qteeconnector@1.0-service.rc
 vendor/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so
@@ -1142,7 +1142,7 @@ vendor/lib/vendor.qti.hardware.qteeconnector@1.0.so
 vendor/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so
 vendor/lib64/vendor.qti.hardware.qteeconnector@1.0.so
 
-# Radio
+#  Radio
 -system_ext/app/QtiTelephonyService/QtiTelephonyService.apk
 -system_ext/app/datastatusnotification/datastatusnotification.apk
 -system_ext/app/embms/embms.apk
@@ -1262,7 +1262,7 @@ vendor/etc/seccomp_policy/wifidisplayhalservice.policy
 system_ext/etc/permissions/com.qualcomm.location.xml
 system_ext/etc/permissions/com.qualcomm.qti.izattools.xml
 
-# IMS - from renoir - 22.5.11
+#  IMS - from renoir - 22.5.11
 system_ext/app/ImsRcsService/ImsRcsService.apk|d03d3142f3518e755d02ace26b17170218ed8b4b
 system_ext/app/QtiTelephony/QtiTelephony.apk|f2ea59dfc69126c83905979e2d55d7c5f02e15e1
 system_ext/etc/permissions/telephony_system-ext_privapp-permissions-qti.xml|a7e114ea1e6909685ce49717a2b5b66d8275d419
@@ -1280,7 +1280,7 @@ system_ext/lib64/libimsmedia_jni.so|9f192af40439abb04d5d5f0f3de5b772c9381114
 system_ext/lib64/vendor.qti.imsrtpservice@3.0.so|0c11ff5a7a671073ee40e17d46aa8b7acbf1dc0a
 system_ext/priv-app/ims/ims.apk|f0d834acbc77e7830459e0246f5073e1b9ba8657
 
-# Radio - IMS
+#  Radio - IMS
 system_ext/lib/libimsmedia_jni.so
 system_ext/lib64/libimsmedia_jni.so
 system_ext/etc/permissions/com.qualcomm.qti.imscmservice.xml
@@ -1306,7 +1306,7 @@ system_ext/lib64/vendor.qti.ims.rcsconfig@1.0.so
 system_ext/lib64/vendor.qti.ims.rcsconfig@1.1.so
 vendor/lib/vendor.qti.data.slm@1.0.so
 
-# Secd
+#  Secd
 lib/vendor.somc.hardware.miscta@1.0.so:vendor/lib/vendor.somc.hardware.miscta@1.0.so
 lib64/vendor.somc.hardware.miscta@1.0.so:vendor/lib64/vendor.somc.hardware.miscta@1.0.so
 vendor/lib64/vendor.somc.hardware.miscta@1.0.so
@@ -1325,14 +1325,14 @@ vendor/lib64/vendor.qti.hardware.soter@1.0.so
 vendor/bin/hw/vendor.qti.hardware.soter@1.0-service
 vendor/etc/init/vendor.qti.hardware.soter@1.0-service.rc
 vendor/lib64/hw/vendor.qti.hardware.soter@1.0-impl.so
-vendor/lib64/libifaa.so
+# vendor/lib64/libifaa.so
 vendor/etc/init/vendor.somc.hardware.miscta@1.0-service.rc
 vendor/bin/hw/vendor.somc.hardware.miscta@1.0-service
 vendor/etc/init/init.taqmi.rc
 system/lib64/libMiscTaWrapper.so:vendor/lib64/libMiscTaWrapper.so
 system/lib/libMiscTaWrapper.so:vendor/lib/libMiscTaWrapper.so
 
-# SECD firmware
+#  SECD firmware
 vendor/firmware/tzsecuredata.b00
 vendor/firmware/tzsecuredata.b01
 vendor/firmware/tzsecuredata.b02
@@ -1361,7 +1361,7 @@ vendor/firmware/tztpm.b06
 vendor/firmware/tztpm.b07
 vendor/firmware/tztpm.mdt
 
-# Sensors
+#  Sensors
 vendor/bin/hw/vendor.qti.hardware.sensorscalibrate@1.0-service
 vendor/bin/init.qcom.sensors.sh
 vendor/bin/sensors.qti
@@ -1387,111 +1387,111 @@ vendor/lib64/libssc_default_listener.so
 vendor/lib64/vendor.qti.hardware.sensorscalibrate@1.0.so
 vendor/etc/sap.conf
 
-# Sensor configs
-vendor/etc/sensors/config/bmp380_0.json
-vendor/etc/sensors/config/cedros_ak991x_0.json
-vendor/etc/sensors/config/cedros_bu52053nvx_0.json
-vendor/etc/sensors/config/cedros_default_sensors.json
-vendor/etc/sensors/config/cedros_dynamic_sensors.json
-vendor/etc/sensors/config/cedros_idp_ak991x_0.json
-vendor/etc/sensors/config/cedros_idp_lsm6dst_0.json
-vendor/etc/sensors/config/cedros_idp_lsm6dst_1.json
-vendor/etc/sensors/config/cedros_irq.json
-vendor/etc/sensors/config/cedros_lps22hh_0.json
-vendor/etc/sensors/config/cedros_lsm6dst_0.json
-vendor/etc/sensors/config/cedros_lsm6dst_1.json
-vendor/etc/sensors/config/cedros_power_0.json
-vendor/etc/sensors/config/cedros_qrd_ak991x_0.json
-vendor/etc/sensors/config/cedros_qrd_lsm6dst_0.json
-vendor/etc/sensors/config/cedros_qrd_sx932x_0.json
-vendor/etc/sensors/config/cedros_qrd_tmd3702_0.json
-vendor/etc/sensors/config/cedros_sx932x_0.json
-vendor/etc/sensors/config/cedros_tmd3702_0.json
-vendor/etc/sensors/config/cedros_vertigo_ak991x_0.json
-vendor/etc/sensors/config/cedros_vertigo_lsm6dst_0.json
-vendor/etc/sensors/config/cedros_vertigo_lsm6dst_1.json
-vendor/etc/sensors/config/faroe_ak991x_0.json
-vendor/etc/sensors/config/faroe_bu52053nvx_0.json
-vendor/etc/sensors/config/faroe_default_sensors.json
-vendor/etc/sensors/config/faroe_dynamic_sensors.json
-vendor/etc/sensors/config/faroe_idp_ak991x_0.json
-vendor/etc/sensors/config/faroe_idp_lsm6dst_0.json
-vendor/etc/sensors/config/faroe_idp_lsm6dst_1.json
-vendor/etc/sensors/config/faroe_irq.json
-vendor/etc/sensors/config/faroe_lps22hh_0.json
-vendor/etc/sensors/config/faroe_lsm6dst_0.json
-vendor/etc/sensors/config/faroe_lsm6dst_1.json
-vendor/etc/sensors/config/faroe_power_0.json
-vendor/etc/sensors/config/faroe_qrd_ak991x_0.json
-vendor/etc/sensors/config/faroe_qrd_lsm6dst_0.json
-vendor/etc/sensors/config/faroe_qrd_sx932x_0.json
-vendor/etc/sensors/config/faroe_qrd_tmd3702_0.json
-vendor/etc/sensors/config/faroe_sx932x_0.json
-vendor/etc/sensors/config/faroe_tmd3702_0.json
-vendor/etc/sensors/config/faroe_vertigo_ak991x_0.json
-vendor/etc/sensors/config/faroe_vertigo_lsm6dst_0.json
-vendor/etc/sensors/config/faroe_vertigo_lsm6dst_1.json
-vendor/etc/sensors/config/kodiak_ak991x_0.json
-vendor/etc/sensors/config/kodiak_bu52053nvx_0.json
-vendor/etc/sensors/config/kodiak_default_sensors.json
-vendor/etc/sensors/config/kodiak_dynamic_sensors.json
-vendor/etc/sensors/config/kodiak_idp_ak991x_0.json
-vendor/etc/sensors/config/kodiak_idp_lsm6dst_0.json
-vendor/etc/sensors/config/kodiak_idp_lsm6dst_1.json
-vendor/etc/sensors/config/kodiak_irq.json
-vendor/etc/sensors/config/kodiak_lps22hh_0.json
-vendor/etc/sensors/config/kodiak_lsm6dst_0.json
-vendor/etc/sensors/config/kodiak_lsm6dst_1.json
-vendor/etc/sensors/config/kodiak_power_0.json
-vendor/etc/sensors/config/kodiak_qrd_ak991x_0.json
-vendor/etc/sensors/config/kodiak_qrd_ak991x_1.json
-vendor/etc/sensors/config/kodiak_qrd_lsm6dst_0.json
-vendor/etc/sensors/config/kodiak_qrd_sx932x_0.json
-vendor/etc/sensors/config/kodiak_qrd_tmd3702_0.json
-vendor/etc/sensors/config/kodiak_sx932x_0.json
-vendor/etc/sensors/config/kodiak_tmd3702_0.json
-vendor/etc/sensors/config/kodiak_vertigo_ak991x_0.json
-vendor/etc/sensors/config/kodiak_vertigo_lsm6dst_0.json
-vendor/etc/sensors/config/kodiak_vertigo_lsm6dst_1.json
-vendor/etc/sensors/config/lahaina_ak991x_0.json
-vendor/etc/sensors/config/lahaina_ak991x_0_somc_platform.json
-vendor/etc/sensors/config/lahaina_ak991x_0_somc_product.json
-vendor/etc/sensors/config/lahaina_bmp380_0.json
-vendor/etc/sensors/config/lahaina_bu52053nvx_0.json
-vendor/etc/sensors/config/lahaina_default_sensors.json
-vendor/etc/sensors/config/lahaina_dynamic_sensors.json
-vendor/etc/sensors/config/lahaina_hdk_ak991x_0.json
-vendor/etc/sensors/config/lahaina_hdk_lsm6dst_0.json
-vendor/etc/sensors/config/lahaina_hdk_lsm6dst_1.json
-vendor/etc/sensors/config/lahaina_hdk_sx932x_0.json
-vendor/etc/sensors/config/lahaina_hdk_tmd2725_0.json
-vendor/etc/sensors/config/lahaina_hhg_ak991x_0.json
-vendor/etc/sensors/config/lahaina_hhg_lsm6dst_0.json
-vendor/etc/sensors/config/lahaina_hhg_sx9302x_0.json
-vendor/etc/sensors/config/lahaina_hhg_tmd3702_0.json
-vendor/etc/sensors/config/lahaina_irq.json
-vendor/etc/sensors/config/lahaina_lps22hh_0.json
-vendor/etc/sensors/config/lahaina_lsm6dso_0.json
-vendor/etc/sensors/config/lahaina_lsm6dso_0_somc_product.json
-vendor/etc/sensors/config/lahaina_lsm6dst_0.json
-vendor/etc/sensors/config/lahaina_lsm6dst_1.json
-vendor/etc/sensors/config/lahaina_mtp_ak991x_0.json
-vendor/etc/sensors/config/lahaina_mtp_lsm6dst_0.json
-vendor/etc/sensors/config/lahaina_mtp_lsm6dst_1.json
-vendor/etc/sensors/config/lahaina_power_0.json
-vendor/etc/sensors/config/lahaina_qrd_ak991x_0.json
-vendor/etc/sensors/config/lahaina_qrd_lsm6dst_0.json
-vendor/etc/sensors/config/lahaina_qrd_sx932x_0.json
-vendor/etc/sensors/config/lahaina_qrd_tmd3702_0.json
-vendor/etc/sensors/config/lahaina_shtw2_0.json
-vendor/etc/sensors/config/lahaina_somc_default_sensors.json
-vendor/etc/sensors/config/lahaina_stk3x3x_0.json
-vendor/etc/sensors/config/lahaina_sx932x_0.json
-vendor/etc/sensors/config/lahaina_tmd3702_0.json
-vendor/etc/sensors/config/lahaina_v2_fcal_ak991x_0.json
-vendor/etc/sensors/config/lahaina_vertigo_ak991x_0.json
-vendor/etc/sensors/config/lahaina_vertigo_lsm6dst_0.json
-vendor/etc/sensors/config/lahaina_vertigo_lsm6dst_1.json
+#  Sensor configs
+# vendor/etc/sensors/config/bmp380_0.json
+vendor/etc/sensors/config/holi_ak991x_0.json
+vendor/etc/sensors/config/holi_bu52053nvx_0.json
+vendor/etc/sensors/config/holi_default_sensors.json
+vendor/etc/sensors/config/holi_dynamic_sensors.json
+vendor/etc/sensors/config/holi_icp101xx_0.json
+vendor/etc/sensors/config/holi_qrd_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_idp_lsm6dst_1.json
+# vendor/etc/sensors/config/holi_irq.json
+# vendor/etc/sensors/config/holi_lps22hh_0.json
+vendor/etc/sensors/config/holi_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_lsm6dst_1.json
+vendor/etc/sensors/config/holi_power_0.json
+vendor/etc/sensors/config/holi_qrd_ak991x_0.json
+vendor/etc/sensors/config/holi_qrd_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_qrd_sx932x_0.json
+vendor/etc/sensors/config/holi_qrd_tmd2725.json
+# vendor/etc/sensors/config/holi_sx932x_0.json
+# vendor/etc/sensors/config/holi_tmd3702_0.json
+# vendor/etc/sensors/config/holi_vertigo_ak991x_0.json
+# vendor/etc/sensors/config/holi_vertigo_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_vertigo_lsm6dst_1.json
+# vendor/etc/sensors/config/faroe_ak991x_0.json
+# vendor/etc/sensors/config/faroe_bu52053nvx_0.json
+# vendor/etc/sensors/config/faroe_default_sensors.json
+# vendor/etc/sensors/config/faroe_dynamic_sensors.json
+# vendor/etc/sensors/config/faroe_idp_ak991x_0.json
+# vendor/etc/sensors/config/faroe_idp_lsm6dst_0.json
+# vendor/etc/sensors/config/faroe_idp_lsm6dst_1.json
+# vendor/etc/sensors/config/faroe_irq.json
+# vendor/etc/sensors/config/faroe_lps22hh_0.json
+# vendor/etc/sensors/config/faroe_lsm6dst_0.json
+# vendor/etc/sensors/config/faroe_lsm6dst_1.json
+# vendor/etc/sensors/config/faroe_power_0.json
+# vendor/etc/sensors/config/faroe_qrd_ak991x_0.json
+# vendor/etc/sensors/config/faroe_qrd_lsm6dst_0.json
+# vendor/etc/sensors/config/faroe_qrd_sx932x_0.json
+# vendor/etc/sensors/config/faroe_qrd_tmd3702_0.json
+# vendor/etc/sensors/config/faroe_sx932x_0.json
+# vendor/etc/sensors/config/faroe_tmd3702_0.json
+# vendor/etc/sensors/config/faroe_vertigo_ak991x_0.json
+# vendor/etc/sensors/config/faroe_vertigo_lsm6dst_0.json
+# vendor/etc/sensors/config/faroe_vertigo_lsm6dst_1.json
+vendor/etc/sensors/config/strait_ak991x_0.json
+vendor/etc/sensors/config/strait_bu52053nvx_0.json
+vendor/etc/sensors/config/strait_default_sensors.json
+vendor/etc/sensors/config/strait_dynamic_sensors.json
+vendor/etc/sensors/config/strait_qrd_ak991x_0.json
+vendor/etc/sensors/config/strait_qrd_lsm6dst_0.json
+# vendor/etc/sensors/config/strait_qrd_lsm6dst_1.json
+# vendor/etc/sensors/config/strait_irq.json
+vendor/etc/sensors/config/strait_icp101xx_0.json
+vendor/etc/sensors/config/strait_lsm6dst_0.json
+# vendor/etc/sensors/config/strait_lsm6dst_1.json
+vendor/etc/sensors/config/strait_power_0.json
+vendor/etc/sensors/config/strait_qrd_ak991x_0.json
+# vendor/etc/sensors/config/strait_qrd_ak991x_1.json
+vendor/etc/sensors/config/strait_qrd_lsm6dst_0.json
+vendor/etc/sensors/config/strait_qrd_stk3a5x_0.json
+vendor/etc/sensors/config/strait_qrd_tmd2725.json
+# vendor/etc/sensors/config/strait_stk3a5x_0.json
+vendor/etc/sensors/config/strait_tmd2725.json
+# vendor/etc/sensors/config/strait_vertigo_ak991x_0.json
+# vendor/etc/sensors/config/strait_vertigo_lsm6dst_0.json
+# vendor/etc/sensors/config/strait_vertigo_lsm6dst_1.json
+# vendor/etc/sensors/config/holi_ak991x_0.json
+# vendor/etc/sensors/config/holi_ak991x_0_somc_platform.json
+# vendor/etc/sensors/config/holi_ak991x_0_somc_product.json
+# vendor/etc/sensors/config/holi_bmp380_0.json
+# vendor/etc/sensors/config/holi_bu52053nvx_0.json
+# vendor/etc/sensors/config/holi_default_sensors.json
+# vendor/etc/sensors/config/holi_dynamic_sensors.json
+# vendor/etc/sensors/config/holi_hdk_ak991x_0.json
+# vendor/etc/sensors/config/holi_hdk_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_hdk_lsm6dst_1.json
+# vendor/etc/sensors/config/holi_hdk_sx932x_0.json
+# vendor/etc/sensors/config/holi_hdk_tmd2725_0.json
+# vendor/etc/sensors/config/holi_hhg_ak991x_0.json
+# vendor/etc/sensors/config/holi_hhg_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_hhg_sx9302x_0.json
+# vendor/etc/sensors/config/holi_hhg_tmd3702_0.json
+# vendor/etc/sensors/config/holi_irq.json
+# vendor/etc/sensors/config/holi_lps22hh_0.json
+# vendor/etc/sensors/config/holi_lsm6dso_0.json
+# vendor/etc/sensors/config/holi_lsm6dso_0_somc_product.json
+# vendor/etc/sensors/config/holi_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_lsm6dst_1.json
+# vendor/etc/sensors/config/holi_mtp_ak991x_0.json
+# vendor/etc/sensors/config/holi_mtp_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_mtp_lsm6dst_1.json
+# vendor/etc/sensors/config/holi_power_0.json
+# vendor/etc/sensors/config/holi_qrd_ak991x_0.json
+# vendor/etc/sensors/config/holi_qrd_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_qrd_sx932x_0.json
+# vendor/etc/sensors/config/holi_qrd_tmd3702_0.json
+# vendor/etc/sensors/config/holi_shtw2_0.json
+# vendor/etc/sensors/config/holi_somc_default_sensors.json
+# vendor/etc/sensors/config/holi_stk3x3x_0.json
+# vendor/etc/sensors/config/holi_sx932x_0.json
+# vendor/etc/sensors/config/holi_tmd3702_0.json
+# vendor/etc/sensors/config/holi_v2_fcal_ak991x_0.json
+# vendor/etc/sensors/config/holi_vertigo_ak991x_0.json
+# vendor/etc/sensors/config/holi_vertigo_lsm6dst_0.json
+# vendor/etc/sensors/config/holi_vertigo_lsm6dst_1.json
 vendor/etc/sensors/config/sns_amd.json
 vendor/etc/sensors/config/sns_amd_sw_disabled.json
 vendor/etc/sensors/config/sns_amd_sw_enabled.json
@@ -1505,7 +1505,7 @@ vendor/etc/sensors/config/sns_ccd_v3_walk.json
 vendor/etc/sensors/config/sns_cm.json
 vendor/etc/sensors/config/sns_dae.json
 vendor/etc/sensors/config/sns_device_orient.json
-vendor/etc/sensors/config/sns_device_orient_somc_platform.json
+# vendor/etc/sensors/config/sns_device_orient_somc_platform.json
 vendor/etc/sensors/config/sns_diag_filter.json
 vendor/etc/sensors/config/sns_direct_channel.json
 vendor/etc/sensors/config/sns_distance_bound.json
@@ -1528,7 +1528,7 @@ vendor/etc/sensors/config/sns_tilt_sw_disabled.json
 vendor/etc/sensors/config/sns_tilt_sw_enabled.json
 vendor/etc/sensors/config/sns_tilt_to_wake.json
 vendor/etc/sensors/config/sns_wrist_pedo.json
-vendor/etc/sensors/config/stk3x3x_0.json
+# vendor/etc/sensors/config/stk3x3x_0.json
 vendor/etc/sensors/hals.conf
 vendor/etc/sensors/proto/descriptor.proto
 vendor/etc/sensors/proto/nanopb.proto
@@ -1574,7 +1574,7 @@ vendor/etc/sensors/proto/sns_offbody_detect.proto
 vendor/etc/sensors/proto/sns_pedometer.proto
 vendor/etc/sensors/proto/sns_pedometer_wrist.proto
 vendor/etc/sensors/proto/sns_physical_sensor_test.proto
-vendor/etc/sensors/proto/sns_pickup_gesture.proto
+# vendor/etc/sensors/proto/sns_pickup_gesture.proto
 vendor/etc/sensors/proto/sns_pose_6dof.proto
 vendor/etc/sensors/proto/sns_ppg.proto
 vendor/etc/sensors/proto/sns_pressure.proto
@@ -1602,38 +1602,38 @@ vendor/etc/sensors/proto/sns_ultra_violet.proto
 vendor/etc/sensors/proto/sns_wrist_tilt_gesture.proto
 vendor/etc/sensors/sns_reg_config
 
-# Snapdragon Computer Vision Engine
+#  Snapdragon Computer Vision Engine
 vendor/lib/libfastcvdsp_stub.so
 -vendor/lib/libfastcvopt.so
 vendor/lib64/libfastcvdsp_stub.so
 -vendor/lib64/libfastcvopt.so
 
-# SSR
+#  SSR
 vendor/bin/ssr_setup
 vendor/bin/subsystem_ramdump
 
-# TA daemon
+#  TA daemon
 vendor/bin/tad
 
-# TA QMI
+#  TA QMI
 vendor/bin/ta_qmi_service
 -vendor/lib/libta.so
 -vendor/lib64/libta.so
 
-# Time services
+#  Time services
 -vendor/app/TimeService/TimeService.apk
 vendor/bin/time_daemon
 vendor/lib64/libtime_genoff.so
 vendor/lib/libtime_genoff.so
 
-# Trimarea
+#  Trimarea
 vendor/lib64/libtpm.so
 vendor/lib64/libintegration.so
 
-# Telephony (qti-telephony-common) - from DRG - QKQ1.190828.002
+#  Telephony (qti-telephony-common) - from DRG - QKQ1.190828.002
 system_ext/framework/qti-telephony-common.jar
 
-# Thermal engine
+#  Thermal engine
 vendor/bin/thermal-engine
 vendor/lib64/libsomc_thermal.so
 -vendor/lib64/libthermalclient.so
@@ -1643,8 +1643,8 @@ vendor/lib/libsomc_thermal.so
 -vendor/lib/libthermalclient.so
 vendor/lib/libthermal_engine.so
 
-# Trusted Execution Environment connector
-# Trusted User Interface
+#  Trusted Execution Environment connector
+#  Trusted User Interface
 vendor/bin/hw/vendor.qti.hardware.tui_comm@1.0-service-qti
 vendor/etc/init/vendor.qti.hardware.tui_comm@1.0-service-qti.rc
 system_ext/lib/vendor.qti.hardware.tui_comm@1.0.so
@@ -1652,35 +1652,35 @@ system_ext/lib64/vendor.qti.hardware.tui_comm@1.0.so
 vendor/lib/vendor.qti.hardware.tui_comm@1.0.so
 vendor/lib64/vendor.qti.hardware.tui_comm@1.0.so
 
-# Widevine DRM
+#  Widevine DRM
 vendor/bin/hw/android.hardware.drm@1.3-service.widevine
 vendor/bin/wvkbd
 vendor/etc/init/android.hardware.drm@1.3-service.widevine.rc
-vendor/lib64/libhdcprx_module.so
+# vendor/lib64/libhdcprx_module.so
 vendor/lib64/libhdcpsrm.so
-vendor/lib64/libhdcptx_module.so
+# vendor/lib64/libhdcptx_module.so
 vendor/lib64/liboemcrypto.so
 vendor/lib64/libwvhidl.so
 vendor/lib64/libwvtee.so
 vendor/lib64/mediadrm/libwvdrmengine.so
-vendor/lib/libhdcprx_module.so
-vendor/lib/libhdcptx_module.so
+# vendor/lib/libhdcprx_module.so
+# vendor/lib/libhdcptx_module.so
 vendor/lib/liboemcrypto.so
 vendor/lib/libwvhidl.so
 vendor/lib/libwvtee.so
 vendor/lib/mediadrm/libwvdrmengine.so
 -vendor/etc/vintf/manifest/manifest_android.hardware.drm@1.3-service.widevine.xml
 
-# Widevine DRM firmware
-vendor/firmware/tzhdcp.b00
-vendor/firmware/tzhdcp.b01
-vendor/firmware/tzhdcp.b02
-vendor/firmware/tzhdcp.b03
-vendor/firmware/tzhdcp.b04
-vendor/firmware/tzhdcp.b05
-vendor/firmware/tzhdcp.b06
-vendor/firmware/tzhdcp.b07
-vendor/firmware/tzhdcp.mdt
+#  Widevine DRM firmware
+# vendor/firmware/tzhdcp.b00
+# vendor/firmware/tzhdcp.b01
+# vendor/firmware/tzhdcp.b02
+# vendor/firmware/tzhdcp.b03
+# vendor/firmware/tzhdcp.b04
+# vendor/firmware/tzhdcp.b05
+# vendor/firmware/tzhdcp.b06
+# vendor/firmware/tzhdcp.b07
+# vendor/firmware/tzhdcp.mdt
 vendor/firmware/tzwidevine.b00
 vendor/firmware/tzwidevine.b01
 vendor/firmware/tzwidevine.b02
@@ -1700,52 +1700,7 @@ vendor/firmware/tzwvcpybuf.b06
 vendor/firmware/tzwvcpybuf.b07
 vendor/firmware/tzwvcpybuf.mdt
 
-# WiFi Display (system) - from OnePlus 8 Pro (IN2025_11.F.15)
-system/framework/WfdCommon.jar|da807ef11346e38e3d9058e655b3a565f3e2a32d
-system_ext/bin/wfdservice|fc204600629fbf60c4c6c187f0943d21643fdb4a
-system_ext/etc/init/wfdservice.rc|907def8565d8f91f531ca7dfad880af05d540b0c
-system_ext/etc/seccomp_policy/wfdservice.policy|37994de64d6bd127898bd556cd614db459fe07ec
-system_ext/etc/wfdconfigsink.xml|cb78df66948314a75080a4161321fb3111a0785a
-system_ext/lib/com.qualcomm.qti.wifidisplayhal@1.0.so|5596408c11c7021ba91b00efc635270d01a36f15
-system_ext/lib/libmmrtpdecoder.so|e15387b44fd9b3661d763d934663551ca30743d7
-system_ext/lib/libmmrtpencoder.so|dbf276471b60a706d76e12edde388ef887b27396
-system_ext/lib/libwfdavenhancements.so|f5588f4386dc1e4b3fd4e54781fc692c0e1884c9
-system_ext/lib/libwfdclient.so|feead7bcaf6a54b60a511f62fe2822a5ebf3fbee
-system_ext/lib/libwfdcommonutils.so|4b48d7941df68f7316c464d94d2f31d4e8f026e5
-system_ext/lib/libwfdconfigutils.so|000bddd8f4bf3d92460c54cd25f638c08080eac3
-system_ext/lib/libwfddisplayconfig.so|ec3383d6c03a21985f4442eae6c7e935867d10c8
-system_ext/lib/libwfdmminterface.so|610a9dadc4f577a655b9fdfee2411a44b0e39a7d
-system_ext/lib/libwfdmmsink.so|a045b3dd2b4cad52684e579af2d72554c178e9f6
-system_ext/lib/libwfdmmsrc_system.so|c3a0c08eaefa1cb59ed3134752b9a6d424c0e1e6
-system_ext/lib/libwfdrtsp.so|3ace8ddfd6dc3f8aea2d8f489431599e6467de1c
-system_ext/lib/libwfdservice.so|1512125bbba762f3e5293a24ff13457a69597472
-system_ext/lib/libwfdsinksm.so|68d32947455c468d12e52a57cd71a2ba50d7fcd2
-system_ext/lib/libwfduibcinterface.so|7ac5b7fd7ff0b469629548549cf3a907068be174
-system_ext/lib/libwfduibcsink.so|5630028a8152379a1037d81224b8c031209b93ce
-system_ext/lib/libwfduibcsinkinterface.so|25e3cd7b8fd106c401597e9d71f47006ca06b31f
-system_ext/lib/libwfduibcsrc.so|09821648adb3275b2c2619af7581f35a47643ff5
-system_ext/lib/libwfduibcsrcinterface.so|0c98741c0d65b27acf73a8b1a742e433fbeb86f4
-system_ext/lib/vendor.qti.hardware.wifidisplaysession@1.0.so|07eca0b49614c82d5c5cebdad017efecfe58a9ba
-system_ext/lib64/libmmparser_lite.so|edea214fa6f7e560fd5e75cadf823f2ff880b3f0
-system_ext/lib64/libmmrtpdecoder.so|8bb6d0a8f31795ed913acd3e8cb2299ada7cd22c
-system_ext/lib64/libmmrtpencoder.so|fef79b731d9c2109f23ebc27575b6e057da8310f
-system_ext/lib64/libwfdclient.so|09d0f04a6251f14f41e548592a9848af9d70975c
-system_ext/lib64/libwfdcommonutils.so|4350b11e16553d02fded587feaae5cd82cdfaa0a
-system_ext/lib64/libwfdconfigutils.so|483aca3a0e52bea1702cebf40e00d0c6c8c24063
-system_ext/lib64/libwfddisplayconfig.so|59a5cb17ffe46900c0ae26a8937a5ddab80fe283
-system_ext/lib64/libwfdmminterface.so|b1e33104bc2231c7f75132757a28c918ee4b3889
-system_ext/lib64/libwfdmmsink.so|0db18686f52492b89d9feffffd0494371f6a8c18
-system_ext/lib64/libwfdnative.so|ad6012e5e0ab701d0f871df59d4ed309955b31fd
-system_ext/lib64/libwfdrtsp.so|1957934068e8befa237106fbc584457e86ef07da
-system_ext/lib64/libwfdsinksm.so|bd2369a1203a3b24115605ec1d27d288b4b62718
-system_ext/lib64/libwfduibcinterface.so|d5a578a2159c4681cb9d159b93c1c39b8f3091f7
-system_ext/lib64/libwfduibcsink.so|d4cc3afb86003f0e26134f82b503b6deac30b6b5
-system_ext/lib64/libwfduibcsinkinterface.so|a875792e5242870cd9a069cb367a6b5031fce2f0
-system_ext/lib64/libwfduibcsrc.so|1529ca18c3484b8a3f3d95e9198def564e86fda3
-system_ext/lib64/libwfduibcsrcinterface.so|69400030817aa8f6994a525b027bb3dd7cabd0d4
-system_ext/priv-app/WfdService/WfdService.apk|33eb0fd6703303f2ff20e39898e278a4358c820b
-
-# WiFi Display (vendor)
+#  WiFi Display (vendor)
 vendor/bin/wifidisplayhalservice
 vendor/etc/init/android.hardware.drm@1.1-service.wfdhdcp.rc
 vendor/etc/init/com.qualcomm.qti.wifidisplayhal@1.0-service.rc
@@ -1780,51 +1735,51 @@ vendor/lib/libwfdutils_proprietary.so
 vendor/lib/vendor.qti.hardware.wifidisplaysession@1.0.so
 vendor/lib/vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl.so
 
-# VPP
-vendor/bin/hw/qconfigservice
-vendor/bin/vppservice
-vendor/etc/configstore/vpp.configstore.xml
-vendor/etc/qconfigpresets.json
-vendor/etc/init/qconfig.rc
-vendor/etc/init/vppservice.rc
-vendor/lib/libqconfigclient.so
-vendor/lib/libvppclient.so
-vendor/lib/libvpphcp.so
-vendor/lib/libvpphvx.so
-vendor/lib/libvpplibrary.so
-vendor/lib/libqc2vppfilter.so
-vendor/lib/vendor.qti.hardware.qconfig@1.0.so
-vendor/lib/vendor.qti.hardware.vpp@1.1.so
-vendor/lib/vendor.qti.hardware.vpp@1.2.so
-vendor/lib/vendor.qti.hardware.vpp@1.3.so
-vendor/lib/vendor.qti.hardware.vpp@2.0.so
-vendor/lib/libswiqisettinghelper.so
-vendor/lib/vendor.somc.hardware.swiqi@1.0.so
-vendor/lib/vendor.somc.hardware.swiqi@1.0-impl.so
-vendor/lib64/libqconfigclient.so
-vendor/lib64/libqc2vppfilter.so
-vendor/lib64/libvppclient.so
-vendor/lib64/libvpphcp.so
-vendor/lib64/libvpphvx.so
-vendor/lib64/libvpplibrary.so
-vendor/lib64/libqconfigclient.so
-vendor/lib64/vendor.qti.hardware.qconfig@1.0.so
-vendor/lib64/vendor.qti.hardware.vpp@1.1.so
-vendor/lib64/vendor.qti.hardware.vpp@1.2.so
-vendor/lib64/vendor.qti.hardware.vpp@1.3.so
-vendor/lib64/vendor.qti.hardware.vpp@2.0.so
-vendor/lib/libpfter.so
-vendor/lib64/libpfter.so
-vendor/lib64/libswiqisettinghelper.so
-vendor/lib64/vendor.somc.hardware.swiqi@1.0.so
-vendor/lib64/vendor.somc.hardware.swiqi@1.0-impl.so
+#  VPP
+# vendor/bin/hw/qconfigservice
+# vendor/bin/vppservice
+# vendor/etc/configstore/vpp.configstore.xml
+# vendor/etc/qconfigpresets.json
+# vendor/etc/init/qconfig.rc
+# vendor/etc/init/vppservice.rc
+# vendor/lib/libqconfigclient.so
+# vendor/lib/libvppclient.so
+# vendor/lib/libvpphcp.so
+# vendor/lib/libvpphvx.so
+# vendor/lib/libvpplibrary.so
+# vendor/lib/libqc2vppfilter.so
+# vendor/lib/vendor.qti.hardware.qconfig@1.0.so
+# vendor/lib/vendor.qti.hardware.vpp@1.1.so
+# vendor/lib/vendor.qti.hardware.vpp@1.2.so
+# vendor/lib/vendor.qti.hardware.vpp@1.3.so
+# vendor/lib/vendor.qti.hardware.vpp@2.0.so
+# vendor/lib/libswiqisettinghelper.so
+# vendor/lib/vendor.somc.hardware.swiqi@1.0.so
+# vendor/lib/vendor.somc.hardware.swiqi@1.0-impl.so
+# vendor/lib64/libqconfigclient.so
+# vendor/lib64/libqc2vppfilter.so
+# vendor/lib64/libvppclient.so
+# vendor/lib64/libvpphcp.so
+# vendor/lib64/libvpphvx.so
+# vendor/lib64/libvpplibrary.so
+# vendor/lib64/libqconfigclient.so
+# vendor/lib64/vendor.qti.hardware.qconfig@1.0.so
+# vendor/lib64/vendor.qti.hardware.vpp@1.1.so
+# vendor/lib64/vendor.qti.hardware.vpp@1.2.so
+# vendor/lib64/vendor.qti.hardware.vpp@1.3.so
+# vendor/lib64/vendor.qti.hardware.vpp@2.0.so
+# vendor/lib/libpfter.so
+# vendor/lib64/libpfter.so
+# vendor/lib64/libswiqisettinghelper.so
+# vendor/lib64/vendor.somc.hardware.swiqi@1.0.so
+# vendor/lib64/vendor.somc.hardware.swiqi@1.0-impl.so
 
-# Wifi firmware
-vendor/etc/wifi/bdwlan.e47
-vendor/etc/wifi/bdwlan.e48
-vendor/etc/wifi/bdwlan.elf
+#  Wifi firmware
+vendor/etc/wifi/bdwlan.bin
+vendor/etc/wifi/bdwlanu.bin
 
-# Other maybe needed firmware
+
+#  Other maybe needed firmware
 vendor/firmware/a615_zap.b00
 vendor/firmware/a615_zap.b01
 vendor/firmware/a615_zap.b02
@@ -1832,23 +1787,23 @@ vendor/firmware/a615_zap.elf
 vendor/firmware/a615_zap.mdt
 vendor/firmware/a619_gmu.bin
 vendor/firmware/a630_sqe.fw
-vendor/firmware/cs40l20.bin
-vendor/firmware/cs40l25a_a2h1.bin
-vendor/firmware/cs40l25a_a2h2.bin
-vendor/firmware/cs40l25a_a2h3.bin
-vendor/firmware/cs40l25a_a2h.bin
-vendor/firmware/cs40l25a_a2h.wmfw
-vendor/firmware/cs40l25a_cal.bin
-vendor/firmware/cs40l25a_cal.wmfw
-vendor/firmware/egista.b00
-vendor/firmware/egista.b01
-vendor/firmware/egista.b02
-vendor/firmware/egista.b03
-vendor/firmware/egista.b04
-vendor/firmware/egista.b05
-vendor/firmware/egista.b06
-vendor/firmware/egista.b07
-vendor/firmware/egista.mdt
+# vendor/firmware/cs40l20.bin
+# vendor/firmware/cs40l25a_a2h1.bin
+# vendor/firmware/cs40l25a_a2h2.bin
+# vendor/firmware/cs40l25a_a2h3.bin
+# vendor/firmware/cs40l25a_a2h.bin
+# vendor/firmware/cs40l25a_a2h.wmfw
+# vendor/firmware/cs40l25a_cal.bin
+# vendor/firmware/cs40l25a_cal.wmfw
+# vendor/firmware/egista.b00
+# vendor/firmware/egista.b01
+# vendor/firmware/egista.b02
+# vendor/firmware/egista.b03
+# vendor/firmware/egista.b04
+# vendor/firmware/egista.b05
+# vendor/firmware/egista.b06
+# vendor/firmware/egista.b07
+# vendor/firmware/egista.mdt
 vendor/firmware/evass.b00
 vendor/firmware/evass.b01
 vendor/firmware/evass.b02
@@ -1900,14 +1855,14 @@ vendor/firmware/ipa_fws.b03
 vendor/firmware/ipa_fws.b04
 vendor/firmware/ipa_fws.elf
 vendor/firmware/ipa_fws.mdt
-vendor/firmware/L-cs35l41-dsp1-spk-cali.bin
-vendor/firmware/L-cs35l41-dsp1-spk-cali.wmfw
-vendor/firmware/L-cs35l41-dsp1-spk-prot.bin
-vendor/firmware/L-cs35l41-dsp1-spk-prot.wmfw
-vendor/firmware/R-cs35l41-dsp1-spk-cali.bin
-vendor/firmware/R-cs35l41-dsp1-spk-cali.wmfw
-vendor/firmware/R-cs35l41-dsp1-spk-prot.bin
-vendor/firmware/R-cs35l41-dsp1-spk-prot.wmfw
+# vendor/firmware/L-cs35l41-dsp1-spk-cali.bin
+# vendor/firmware/L-cs35l41-dsp1-spk-cali.wmfw
+# vendor/firmware/L-cs35l41-dsp1-spk-prot.bin
+# vendor/firmware/L-cs35l41-dsp1-spk-prot.wmfw
+# vendor/firmware/R-cs35l41-dsp1-spk-cali.bin
+# vendor/firmware/R-cs35l41-dsp1-spk-cali.wmfw
+# vendor/firmware/R-cs35l41-dsp1-spk-prot.bin
+# vendor/firmware/R-cs35l41-dsp1-spk-prot.wmfw
 vendor/firmware/vpu20_1v.b01
 vendor/firmware/vpu20_1v.b02
 vendor/firmware/vpu20_1v.b03
@@ -1952,7 +1907,7 @@ vendor/firmware/vpu20_2v.b19
 vendor/firmware/vpu20_2v.mbn
 vendor/firmware/vpu20_2v.mdt
 vendor/firmware/vpu20_2v_unsigned.mbn
-vendor/firmware/vpu20_4v.b00
+# vendor/firmware/vpu20_4v.b00
 vendor/firmware/vpu20_4v.b01
 vendor/firmware/vpu20_4v.b02
 vendor/firmware/vpu20_4v.b03
@@ -1975,44 +1930,44 @@ vendor/firmware/vpu20_4v.b19
 vendor/firmware/vpu20_4v.mbn
 vendor/firmware/vpu20_4v.mdt
 vendor/firmware/vpu20_4v_unsigned.mbn
-vendor/firmware/yupik_ipa_fws.b00
-vendor/firmware/yupik_ipa_fws.b01
-vendor/firmware/yupik_ipa_fws.b02
-vendor/firmware/yupik_ipa_fws.b03
-vendor/firmware/yupik_ipa_fws.b04
-vendor/firmware/yupik_ipa_fws.elf
-vendor/firmware/yupik_ipa_fws.mdt
+# vendor/firmware/yupik_ipa_fws.b00
+# vendor/firmware/yupik_ipa_fws.b01
+# vendor/firmware/yupik_ipa_fws.b02
+# vendor/firmware/yupik_ipa_fws.b03
+# vendor/firmware/yupik_ipa_fws.b04
+# vendor/firmware/yupik_ipa_fws.elf
+# vendor/firmware/yupik_ipa_fws.mdt
 
 
-# Modem
+#  Modem
 vendor/bin/mlog_qmi_service
 vendor/etc/init/mlog_qmi_service.rc
 
-# WLAN
-vendor/etc/wifi/vendor_cmd.xml
+#  WLAN
+# vendor/etc/wifi/vendor_cmd.xml
 vendor/etc/wifi/aoa_cldb_swl14.bin
 vendor/etc/wifi/regdb.bin
 vendor/etc/wifi/icm.conf
 vendor/etc/wifi/aoa_cldb_falcon.bin
-vendor/etc/wifi/bdwlan.e48
+# vendor/etc/wifi/bdwlan.e48
 vendor/etc/wifi/WCNSS_qcom_cfg.ini
 vendor/etc/wifi/wpa_supplicant_overlay.conf
 vendor/etc/wifi/wifi_txpower.conf
 vendor/etc/wifi/p2p_supplicant_overlay.conf
-vendor/etc/wifi/bdwlan.elf
-vendor/etc/wifi/bdwlan.e47
+# vendor/etc/wifi/bdwlan.elf
+# vendor/etc/wifi/bdwlan.e47
 
-# SIM control
-odm/etc/init/sony_ext_uim_ctrl.rc
-odm/bin/sony_ext_uim_ctrl
+#  SIM control
+# odm/etc/init/sony_ext_uim_ctrl.rc
+# odm/bin/sony_ext_uim_ctrl
 
-# Kernel
-vendor/bin/init.kernel.post_boot-lahaina.sh
+#  Kernel
+vendor/bin/init.kernel.post_boot-holi.sh
 vendor/bin/init.kernel.post_boot.sh
 
-# TODO: Missed files, sort them out
-vendor/lib/libhta.so
-vendor/lib64/libhta.so
+#  TODO: Missed files, sort them out
+# vendor/lib/libhta.so
+# vendor/lib64/libhta.so
 vendor/lib/com.qti.chiusecaseselector.so
 vendor/lib64/com.qti.chiusecaseselector.so
 vendor/lib/com.qualcomm.mcx.distortionmapper.so
@@ -2029,7 +1984,7 @@ vendor/lib/libjpege.so
 vendor/lib64/libjpege.so
 vendor/lib/libmctfengine_stub.so
 vendor/lib64/libmctfengine_stub.so
-vendor/lib64/libnanopb.so
+# vendor/lib64/libnanopb.so
 vendor/lib/libqllengine.so
 vendor/lib64/libqllengine.so
 vendor/lib/libswregistrationalgo.so
@@ -2038,7 +1993,7 @@ vendor/lib/libtfestriping.so
 vendor/lib64/libtfestriping.so
 vendor/etc/init/vendor.qti.hardware.charger_monitor@1.0-service.rc
 vendor/etc/charger_fstab.qti
-vendor/etc/charger_fw_fstab.qti
+# vendor/etc/charger_fw_fstab.qti
 vendor/etc/gpfspath_oem_config.xml
 vendor/gpu/kbc/sequence_manifest.bin
 vendor/gpu/kbc/unified_kbcs_32.bin
@@ -2056,15 +2011,15 @@ vendor/etc/vintf/manifest/c2_manifest_vendor.xml
 vendor/etc/media_profiles.xml
 odm/etc/media_profiles_V1_0.xml
 vendor/etc/media_profiles_V1_0.xml
-vendor/etc/media_profiles_lahaina.xml
-vendor/etc/media_profiles_lahaina_vendor.xml
+vendor/etc/media_profiles_holi.xml
+# vendor/etc/media_profiles_holi_vendor.xml
 vendor/etc/media_profiles_vendor.xml
 vendor/etc/media_codecs.xml
-vendor/etc/media_codecs_lahaina.xml
-vendor/etc/media_codecs_lahaina_vendor.xml
+vendor/etc/media_codecs_holi.xml
+# vendor/etc/media_codecs_holi_vendor.xml
 vendor/etc/media_codecs_performance.xml
-vendor/etc/media_codecs_performance_lahaina.xml
-vendor/etc/media_codecs_performance_lahaina_vendor.xml
+vendor/etc/media_codecs_performance_holi.xml
+# vendor/etc/media_codecs_performance_holi_vendor.xml
 vendor/etc/media_codecs_vendor_audio.xml
 vendor/lib64/libsn100u_fw.so
 vendor/lib/libMpeghSwEnc.so
@@ -2095,7 +2050,7 @@ vendor/etc/init/init.time_daemon.rc
 vendor/lib/libtrustedapploader.so
 vendor/lib64/libtrustedapploader.so
 vendor/bin/cnss-daemon
-vendor/etc/init/init.vendor.wlan.rc
+# vendor/etc/init/init.vendor.wlan.rc
 vendor/etc/init/android.hardware.drm@1.1-service.wfdhdcp.rc
 vendor/etc/init/com.qualcomm.qti.wifidisplayhal@1.0-service.rc
 vendor/etc/init/wfdvndservice.rc
@@ -2116,11 +2071,11 @@ vendor/lib/vendor.qti.hardware.wifidisplaysessionl@1.0-halimpl.so
 vendor/lib64/liblights-core.so
 vendor/lib64/libsys-utils.so
 
-# TA
+#  TA
 vendor/etc/init/vendor.somc.hardware.aidlmiscta-somc.rc
 vendor/bin/hw/vendor.somc.hardware.aidlmiscta-service.somc
 vendor/lib64/vendor.somc.hardware.aidlmiscta-V1-ndk_platform.so
 
-# NV Updater
-vendor/bin/nv_updater
-vendor/etc/init/nv_updater.rc
+#  NV Updater
+# vendor/bin/nv_updater
+# vendor/etc/init/nv_updater.rc
