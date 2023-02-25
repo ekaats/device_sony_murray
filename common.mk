@@ -258,10 +258,6 @@ PRODUCT_PACKAGES += \
     vendor_modprobe.sh \
     init.sony.rc
 
-# Configstore
-PRODUCT_PACKAGES += \
-    disable_configstore
-
 # Display
 PRODUCT_PACKAGES += \
     libdisplayconfig.qti \
@@ -442,11 +438,6 @@ PRODUCT_SOONG_NAMESPACES += \
     $(LOCAL_PATH) \
     hardware/sony \
     vendor/qcom/opensource/usb/etc
-
-# Sony charger interface
-PRODUCT_PACKAGES += \
-    vendor.semc.hardware.charger@1.0.vendor \
-    vendor.semc.hardware.charger@1.1.vendor
 
 # Sony Display interface
 PRODUCT_PACKAGES += \
