@@ -30,7 +30,7 @@ $(call inherit-product, frameworks/native/build/phone-xhdpi-6144-dalvik-heap.mk)
 $(call inherit-product, vendor/sony/murray/common/common-vendor.mk)
 
 # VNDK
-PRODUCT_SHIPPING_API_LEVEL := 31
+PRODUCT_SHIPPING_API_LEVEL := 30
 
 # Additional native libraries
 PRODUCT_COPY_FILES += \
