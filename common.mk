@@ -452,9 +452,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     vendor.semc.hardware.display@2.0.vendor \
     vendor.semc.hardware.display@2.1.vendor \
-    vendor.semc.hardware.display@2.2.vendor \
-    vendor.semc.hardware.display@2.3.vendor \
-    vendor.semc.hardware.display@2.4.vendor
+    vendor.semc.hardware.display@2.2.vendor
 
 # Set fdsan to the warn_once severity level
 PRODUCT_PROPERTY_OVERRIDES += \
