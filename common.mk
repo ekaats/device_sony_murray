@@ -363,8 +363,7 @@ PRODUCT_PACKAGES += \
 
 # Light
 PRODUCT_PACKAGES += \
-    android.hardware.lights-service.qti \
-    lights.sony
+    android.hardware.lights-service.qti
 
 # LiveDisplay
 PRODUCT_PACKAGES += \
