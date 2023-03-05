@@ -7,6 +7,7 @@ bt_fm_slim.ko
 btpower.ko
 bu520x1nvx.ko
 camera.ko
+et603-int.ko
 et613-drv.ko
 haptic.ko
 last_logs.ko
