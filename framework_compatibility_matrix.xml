@@ -96,6 +96,15 @@
             <instance>logreader</instance>
         </interface>
     </hal>
+        <hal format="hidl">
+       <name>vendor.semc.system.idd</name>
+       <version>1.0</version>
+       <interface>
+            <name>IIdd</name>
+            <instance>default</instance>
+            <instance>logreader</instance>
+        </interface>
+    </hal>
     <hal format="hidl">
        <name>vendor.semc.hardware.display</name>
        <version>2.2-4</version>
