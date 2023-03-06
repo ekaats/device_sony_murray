@@ -14,6 +14,8 @@
 # limitations under the License.
 #
 
+SELINUX_IGNORE_NEVERALLOWS := true
+
 BUILD_BROKEN_DUP_RULES := true
 
 BUILD_BROKEN_ENFORCE_SYSPROP_OWNER := true
