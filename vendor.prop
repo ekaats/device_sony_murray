@@ -93,6 +93,10 @@ vendor.audio.feature.wsa.enable=false
 vendor.audio.feature.audiozoom.enable=false
 vendor.audio.feature.snd_mon.enable=true
 
+# Audio volume steps
+ro.config.media_vol_steps=15
+ro.config.vc_call_vol_steps=11
+
 ### ART
 dalvik.vm.dex2oat64.enabled=true
 ro.sys.fw.dex2oat_thread_count=8
