@@ -245,6 +245,8 @@ PRODUCT_PACKAGES += \
     init.target.rc \
     ueventd.qcom.rc \
     fstab.qcom \
+    init.murray.rc \
+    init.murray.pwr.rc \
     texfat.rc \
     init.nfc.rc \
     init.sony-device-common.rc \
