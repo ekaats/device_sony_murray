@@ -10,6 +10,12 @@ genfscon sysfs /devices/platform/soc/984000.i2c/i2c-0/0-0028/wakeup u:object_r:s
 genfscon sysfs /class/battchg_ext u:object_r:sysfs_battchg_ext:s0
 genfscon sysfs /class/battman_dbg u:object_r:sysfs_battchg_ext:s0
 
+# Camera
+genfscon sysfs /devices/platform/soc/ac4f000.qcom,cci                           u:object_r:sysfs_camera:s0
+genfscon sysfs /devices/platform/soc/ac50000.qcom,cci                           u:object_r:sysfs_camera:s0
+genfscon sysfs /devices/platform/soc/5c1c000.qcom,cci                           u:object_r:sysfs_camera:s0
+genfscon sysfs /devices/platform/soc/5c1b000.qcom,cci                           u:object_r:sysfs_camera:s0
+
 # Wakeups
 genfscon sysfs /devices/platform/soc/5c00000.qcom,ssc/wakeup/wakeup                 u:object_r:sysfs_wakeup:s0
 genfscon sysfs /devices/platform/soc/soc:et6xx/wakeup/wakeup                        u:object_r:sysfs_wakeup:s0
