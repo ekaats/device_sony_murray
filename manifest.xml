@@ -384,7 +384,7 @@
     <hal format="hidl">
         <name>android.hardware.camera.provider</name>
         <transport>hwbinder</transport>
-        <version>2.6</version>
+        <version>2.4</version>
         <interface>
             <name>ICameraProvider</name>
             <instance>legacy/0</instance>
@@ -428,11 +428,20 @@
     <hal override="true">
         <name>android.hardware.camera.provider</name>
         <transport>hwbinder</transport>
-        <version>2.6</version>
+        <version>2.4</version>
         <interface>
             <name>ICameraProvider</name>
             <instance>internal/0</instance>
             <instance>external/0</instance>
+        </interface>
+    </hal>
+        <hal override="true">
+        <name>android.hardware.camera.provider</name>
+        <transport>hwbinder</transport>
+        <version>2.6</version>
+        <interface>
+            <name>ICameraProvider</name>
+            <instance>legacy/0</instance>
         </interface>
     </hal>
     <hal format="hidl">
@@ -444,11 +453,6 @@
             <instance>default</instance>
         </interface>
         <fqname>@1.0::IQspmhal/default</fqname>
-    </hal>
-    <hal format="hidl">
-        <name>vendor.semc.hardware.charger</name>
-        <transport>hwbinder</transport>
-        <fqname>@1.2::ICharger/default</fqname>
     </hal>
     <hal format="hidl">
         <name>vendor.qti.hardware.qconfig</name>
