@@ -359,10 +359,6 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.lights-service.qti
 
-# LiveDisplay
-PRODUCT_PACKAGES += \
-    vendor.lineage.livedisplay@2.1-service.sony
-
 # Net
 PRODUCT_PACKAGES += \
     android.system.net.netd@1.1.vendor \
