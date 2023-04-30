@@ -213,7 +213,6 @@ PRODUCT_PACKAGES_DEBUG += \
 PRODUCT_PACKAGES += \
     android.hardware.camera.common@1.0.vendor \
     android.hardware.camera.provider@2.4-impl \
-    android.hardware.camera.provider@2.4-service_64 \
     android.hardware.camera.provider@2.4-external \
     android.hardware.camera.provider@2.4-legacy \
     android.hardware.camera.provider@2.5-legacy:64 \
