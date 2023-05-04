@@ -200,6 +200,13 @@ PRODUCT_PACKAGES += \
     vendor.qti.hardware.btconfigstore@1.0.vendor \
     vendor.qti.hardware.btconfigstore@2.0.vendor
 
+PRODUCT_PACKAGES += \
+    audio.bluetooth.default \
+    libbthost_if \
+    libbluetooth_audio_session \
+    libbthost_if.vendor \
+    libldacBT_bco.vendor
+
 # Boot control
 PRODUCT_PACKAGES += \
     android.hardware.boot@1.2-impl-qti \
