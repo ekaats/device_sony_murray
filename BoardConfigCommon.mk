@@ -84,8 +84,7 @@ BOARD_KERNEL_CMDLINE := \
     pcie_ports=compat \
     loop.max_part=7 \
     iptable_raw.raw_before_defrag=1 \
-    ip6table_raw.raw_before_defrag=1 \
-    kpti=off
+    ip6table_raw.raw_before_defrag=1
 
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_PAGESIZE := 4096
