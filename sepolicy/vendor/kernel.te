@@ -1,4 +1,1 @@
 allow kernel vendor_sysfs_battery_supply:dir { search open read };
-allow kernel mnt_vendor_file:dir { search open read };
-allow kernel vendor_persist_audio_file:dir { search open read };
-allow kernel vendor_persist_audio_file:file { open read };
